@@ -1,10 +1,13 @@
 #functions for interacting with email
 #D. Storelli
 #9 January 2019
-#source: https://www.geeksforgeeks.org/send-mail-gmail-account-using-python/
+#source code:
+#https://www.geeksforgeeks.org/send-mail-gmail-account-using-python/
+#https://codehandbook.org/how-to-read-email-from-gmail-using-python/
 
 import smtplib
 import imaplib
+import email
 
 #send message function
 def send_email(message):
@@ -57,10 +60,24 @@ def readmail():
     type, data = mail.search(None, 'ALL')
     mail_ids = data[0]
     id_list = mail_ids.split()
+    first_email_id = int(id_list[0])
+    latest_email_id = int(id_list[-1])
 
-    print(id_list)
+    for i in range(latest_email_id,first_email_id, -1):
+        typ, data = mail.fetch(str(i), '(RFC822)' )
 
-
+        for response_part in data:
+            if isinstance(response_part, tuple):
+                msg = email.message_from_string(response_part[1].decode())
+                email_subject = msg['subject']
+                email_from = msg['from']
+                email_body = msg.get_payload()
+                print('From : ' + email_from + '\n')
+                #if email_from == 'tec.remote01@gmail.com':
+                    #print('Body: '+'\n'+email_body+'\n')
+                #print('Subject : ' + email_subject + '\n')
+    #print(id_list)
+    mail.logout()
 
     return
 
