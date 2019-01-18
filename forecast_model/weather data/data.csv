@@ -1,336 +1,336 @@
-,estimated_actuals
-0,"{'ghi': 763, 'ebh': 406, 'dni': 469, 'dhi': 357, 'cloud_opacity': 19, 'period_end': '2019-01-18T02:30:00.0000000Z', 'period': 'PT30M'}"
-1,"{'ghi': 784, 'ebh': 569, 'dni': 708, 'dhi': 214, 'cloud_opacity': 9, 'period_end': '2019-01-18T02:00:00.0000000Z', 'period': 'PT30M'}"
-2,"{'ghi': 619, 'ebh': 314, 'dni': 431, 'dhi': 304, 'cloud_opacity': 18, 'period_end': '2019-01-18T01:30:00.0000000Z', 'period': 'PT30M'}"
-3,"{'ghi': 579, 'ebh': 375, 'dni': 587, 'dhi': 203, 'cloud_opacity': 11, 'period_end': '2019-01-18T01:00:00.0000000Z', 'period': 'PT30M'}"
-4,"{'ghi': 424, 'ebh': 182, 'dni': 342, 'dhi': 241, 'cloud_opacity': 20, 'period_end': '2019-01-18T00:30:00.0000000Z', 'period': 'PT30M'}"
-5,"{'ghi': 386, 'ebh': 264, 'dni': 614, 'dhi': 121, 'cloud_opacity': 5, 'period_end': '2019-01-18T00:00:00.0000000Z', 'period': 'PT30M'}"
-6,"{'ghi': 274, 'ebh': 185, 'dni': 576, 'dhi': 89, 'cloud_opacity': 3, 'period_end': '2019-01-17T23:30:00.0000000Z', 'period': 'PT30M'}"
-7,"{'ghi': 153, 'ebh': 86, 'dni': 414, 'dhi': 67, 'cloud_opacity': 2, 'period_end': '2019-01-17T23:00:00.0000000Z', 'period': 'PT30M'}"
-8,"{'ghi': 34, 'ebh': 5, 'dni': 29, 'dhi': 29, 'cloud_opacity': 33, 'period_end': '2019-01-17T22:30:00.0000000Z', 'period': 'PT30M'}"
-9,"{'ghi': 2, 'ebh': 0, 'dni': 0, 'dhi': 2, 'cloud_opacity': 61, 'period_end': '2019-01-17T22:00:00.0000000Z', 'period': 'PT30M'}"
-10,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-17T21:30:00.0000000Z', 'period': 'PT30M'}"
-11,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 59, 'period_end': '2019-01-17T21:00:00.0000000Z', 'period': 'PT30M'}"
-12,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-17T20:30:00.0000000Z', 'period': 'PT30M'}"
-13,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 59, 'period_end': '2019-01-17T20:00:00.0000000Z', 'period': 'PT30M'}"
-14,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-17T19:30:00.0000000Z', 'period': 'PT30M'}"
-15,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 58, 'period_end': '2019-01-17T19:00:00.0000000Z', 'period': 'PT30M'}"
-16,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 54, 'period_end': '2019-01-17T18:30:00.0000000Z', 'period': 'PT30M'}"
-17,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-17T18:00:00.0000000Z', 'period': 'PT30M'}"
-18,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-17T17:30:00.0000000Z', 'period': 'PT30M'}"
-19,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-17T17:00:00.0000000Z', 'period': 'PT30M'}"
-20,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-17T16:30:00.0000000Z', 'period': 'PT30M'}"
-21,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-17T16:00:00.0000000Z', 'period': 'PT30M'}"
-22,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-17T15:30:00.0000000Z', 'period': 'PT30M'}"
-23,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-17T15:00:00.0000000Z', 'period': 'PT30M'}"
-24,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 61, 'period_end': '2019-01-17T14:30:00.0000000Z', 'period': 'PT30M'}"
-25,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 61, 'period_end': '2019-01-17T14:00:00.0000000Z', 'period': 'PT30M'}"
-26,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 57, 'period_end': '2019-01-17T13:00:00.0000000Z', 'period': 'PT30M'}"
-27,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 54, 'period_end': '2019-01-17T12:30:00.0000000Z', 'period': 'PT30M'}"
-28,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 71, 'period_end': '2019-01-17T12:00:00.0000000Z', 'period': 'PT30M'}"
-29,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 67, 'period_end': '2019-01-17T11:30:00.0000000Z', 'period': 'PT30M'}"
-30,"{'ghi': 1, 'ebh': 0, 'dni': 0, 'dhi': 1, 'cloud_opacity': 51, 'period_end': '2019-01-17T11:00:00.0000000Z', 'period': 'PT30M'}"
-31,"{'ghi': 13, 'ebh': 1, 'dni': 7, 'dhi': 11, 'cloud_opacity': 32, 'period_end': '2019-01-17T10:30:00.0000000Z', 'period': 'PT30M'}"
-32,"{'ghi': 39, 'ebh': 1, 'dni': 4, 'dhi': 38, 'cloud_opacity': 63, 'period_end': '2019-01-17T10:00:00.0000000Z', 'period': 'PT30M'}"
-33,"{'ghi': 83, 'ebh': 1, 'dni': 5, 'dhi': 82, 'cloud_opacity': 62, 'period_end': '2019-01-17T09:30:00.0000000Z', 'period': 'PT30M'}"
-34,"{'ghi': 96, 'ebh': 0, 'dni': 2, 'dhi': 95, 'cloud_opacity': 72, 'period_end': '2019-01-17T09:00:00.0000000Z', 'period': 'PT30M'}"
-35,"{'ghi': 117, 'ebh': 0, 'dni': 1, 'dhi': 117, 'cloud_opacity': 75, 'period_end': '2019-01-17T08:30:00.0000000Z', 'period': 'PT30M'}"
-36,"{'ghi': 100, 'ebh': 0, 'dni': 0, 'dhi': 100, 'cloud_opacity': 82, 'period_end': '2019-01-17T08:00:00.0000000Z', 'period': 'PT30M'}"
-37,"{'ghi': 101, 'ebh': 0, 'dni': 0, 'dhi': 101, 'cloud_opacity': 85, 'period_end': '2019-01-17T07:30:00.0000000Z', 'period': 'PT30M'}"
-38,"{'ghi': 89, 'ebh': 0, 'dni': 0, 'dhi': 89, 'cloud_opacity': 89, 'period_end': '2019-01-17T07:00:00.0000000Z', 'period': 'PT30M'}"
-39,"{'ghi': 97, 'ebh': 0, 'dni': 0, 'dhi': 97, 'cloud_opacity': 88, 'period_end': '2019-01-17T06:30:00.0000000Z', 'period': 'PT30M'}"
-40,"{'ghi': 116, 'ebh': 0, 'dni': 0, 'dhi': 116, 'cloud_opacity': 87, 'period_end': '2019-01-17T06:00:00.0000000Z', 'period': 'PT30M'}"
-41,"{'ghi': 160, 'ebh': 0, 'dni': 0, 'dhi': 160, 'cloud_opacity': 83, 'period_end': '2019-01-17T05:30:00.0000000Z', 'period': 'PT30M'}"
-42,"{'ghi': 260, 'ebh': 1, 'dni': 1, 'dhi': 259, 'cloud_opacity': 75, 'period_end': '2019-01-17T05:00:00.0000000Z', 'period': 'PT30M'}"
-43,"{'ghi': 214, 'ebh': 0, 'dni': 0, 'dhi': 214, 'cloud_opacity': 79, 'period_end': '2019-01-17T04:30:00.0000000Z', 'period': 'PT30M'}"
-44,"{'ghi': 196, 'ebh': 0, 'dni': 0, 'dhi': 195, 'cloud_opacity': 81, 'period_end': '2019-01-17T04:00:00.0000000Z', 'period': 'PT30M'}"
-45,"{'ghi': 190, 'ebh': 0, 'dni': 0, 'dhi': 190, 'cloud_opacity': 82, 'period_end': '2019-01-17T03:30:00.0000000Z', 'period': 'PT30M'}"
-46,"{'ghi': 238, 'ebh': 1, 'dni': 1, 'dhi': 237, 'cloud_opacity': 76, 'period_end': '2019-01-17T03:00:00.0000000Z', 'period': 'PT30M'}"
-47,"{'ghi': 480, 'ebh': 27, 'dni': 31, 'dhi': 452, 'cloud_opacity': 48, 'period_end': '2019-01-17T02:30:00.0000000Z', 'period': 'PT30M'}"
-48,"{'ghi': 506, 'ebh': 82, 'dni': 102, 'dhi': 422, 'cloud_opacity': 40, 'period_end': '2019-01-17T02:00:00.0000000Z', 'period': 'PT30M'}"
-49,"{'ghi': 551, 'ebh': 177, 'dni': 242, 'dhi': 374, 'cloud_opacity': 27, 'period_end': '2019-01-17T01:30:00.0000000Z', 'period': 'PT30M'}"
-50,"{'ghi': 449, 'ebh': 116, 'dni': 180, 'dhi': 332, 'cloud_opacity': 31, 'period_end': '2019-01-17T01:00:00.0000000Z', 'period': 'PT30M'}"
-51,"{'ghi': 325, 'ebh': 44, 'dni': 81, 'dhi': 280, 'cloud_opacity': 38, 'period_end': '2019-01-17T00:30:00.0000000Z', 'period': 'PT30M'}"
-52,"{'ghi': 235, 'ebh': 27, 'dni': 60, 'dhi': 208, 'cloud_opacity': 42, 'period_end': '2019-01-17T00:00:00.0000000Z', 'period': 'PT30M'}"
-53,"{'ghi': 120, 'ebh': 3, 'dni': 11, 'dhi': 117, 'cloud_opacity': 56, 'period_end': '2019-01-16T23:30:00.0000000Z', 'period': 'PT30M'}"
-54,"{'ghi': 109, 'ebh': 18, 'dni': 89, 'dhi': 91, 'cloud_opacity': 28, 'period_end': '2019-01-16T23:00:00.0000000Z', 'period': 'PT30M'}"
-55,"{'ghi': 31, 'ebh': 5, 'dni': 32, 'dhi': 26, 'cloud_opacity': 49, 'period_end': '2019-01-16T22:30:00.0000000Z', 'period': 'PT30M'}"
-56,"{'ghi': 1, 'ebh': 0, 'dni': 0, 'dhi': 1, 'cloud_opacity': 76, 'period_end': '2019-01-16T22:00:00.0000000Z', 'period': 'PT30M'}"
-57,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 75, 'period_end': '2019-01-16T21:30:00.0000000Z', 'period': 'PT30M'}"
-58,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 74, 'period_end': '2019-01-16T21:00:00.0000000Z', 'period': 'PT30M'}"
-59,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 74, 'period_end': '2019-01-16T20:30:00.0000000Z', 'period': 'PT30M'}"
-60,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 75, 'period_end': '2019-01-16T20:00:00.0000000Z', 'period': 'PT30M'}"
-61,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 57, 'period_end': '2019-01-16T19:30:00.0000000Z', 'period': 'PT30M'}"
-62,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 57, 'period_end': '2019-01-16T19:00:00.0000000Z', 'period': 'PT30M'}"
-63,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 75, 'period_end': '2019-01-16T18:30:00.0000000Z', 'period': 'PT30M'}"
-64,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 76, 'period_end': '2019-01-16T18:00:00.0000000Z', 'period': 'PT30M'}"
-65,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 75, 'period_end': '2019-01-16T17:30:00.0000000Z', 'period': 'PT30M'}"
-66,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 74, 'period_end': '2019-01-16T17:00:00.0000000Z', 'period': 'PT30M'}"
-67,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 62, 'period_end': '2019-01-16T16:30:00.0000000Z', 'period': 'PT30M'}"
-68,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 70, 'period_end': '2019-01-16T16:00:00.0000000Z', 'period': 'PT30M'}"
-69,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 72, 'period_end': '2019-01-16T15:30:00.0000000Z', 'period': 'PT30M'}"
-70,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-16T15:00:00.0000000Z', 'period': 'PT30M'}"
-71,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 57, 'period_end': '2019-01-16T14:30:00.0000000Z', 'period': 'PT30M'}"
-72,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 46, 'period_end': '2019-01-16T14:00:00.0000000Z', 'period': 'PT30M'}"
-73,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 52, 'period_end': '2019-01-16T13:30:00.0000000Z', 'period': 'PT30M'}"
-74,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-16T13:00:00.0000000Z', 'period': 'PT30M'}"
-75,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-16T12:30:00.0000000Z', 'period': 'PT30M'}"
-76,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-16T12:00:00.0000000Z', 'period': 'PT30M'}"
-77,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 60, 'period_end': '2019-01-16T11:30:00.0000000Z', 'period': 'PT30M'}"
-78,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 61, 'period_end': '2019-01-16T11:00:00.0000000Z', 'period': 'PT30M'}"
-79,"{'ghi': 10, 'ebh': 0, 'dni': 2, 'dhi': 9, 'cloud_opacity': 55, 'period_end': '2019-01-16T10:30:00.0000000Z', 'period': 'PT30M'}"
-80,"{'ghi': 45, 'ebh': 1, 'dni': 7, 'dhi': 44, 'cloud_opacity': 56, 'period_end': '2019-01-16T10:00:00.0000000Z', 'period': 'PT30M'}"
-81,"{'ghi': 81, 'ebh': 2, 'dni': 13, 'dhi': 78, 'cloud_opacity': 62, 'period_end': '2019-01-16T09:30:00.0000000Z', 'period': 'PT30M'}"
-82,"{'ghi': 133, 'ebh': 2, 'dni': 6, 'dhi': 130, 'cloud_opacity': 61, 'period_end': '2019-01-16T09:00:00.0000000Z', 'period': 'PT30M'}"
-83,"{'ghi': 196, 'ebh': 4, 'dni': 9, 'dhi': 191, 'cloud_opacity': 59, 'period_end': '2019-01-16T08:30:00.0000000Z', 'period': 'PT30M'}"
-84,"{'ghi': 274, 'ebh': 10, 'dni': 16, 'dhi': 264, 'cloud_opacity': 54, 'period_end': '2019-01-16T08:00:00.0000000Z', 'period': 'PT30M'}"
-85,"{'ghi': 313, 'ebh': 9, 'dni': 13, 'dhi': 304, 'cloud_opacity': 55, 'period_end': '2019-01-16T07:30:00.0000000Z', 'period': 'PT30M'}"
-86,"{'ghi': 300, 'ebh': 4, 'dni': 6, 'dhi': 295, 'cloud_opacity': 62, 'period_end': '2019-01-16T07:00:00.0000000Z', 'period': 'PT30M'}"
-87,"{'ghi': 312, 'ebh': 3, 'dni': 4, 'dhi': 309, 'cloud_opacity': 64, 'period_end': '2019-01-16T06:30:00.0000000Z', 'period': 'PT30M'}"
-88,"{'ghi': 451, 'ebh': 18, 'dni': 20, 'dhi': 432, 'cloud_opacity': 53, 'period_end': '2019-01-16T06:00:00.0000000Z', 'period': 'PT30M'}"
-89,"{'ghi': 442, 'ebh': 17, 'dni': 18, 'dhi': 425, 'cloud_opacity': 56, 'period_end': '2019-01-16T05:30:00.0000000Z', 'period': 'PT30M'}"
-90,"{'ghi': 73, 'ebh': 0, 'dni': 0, 'dhi': 73, 'cloud_opacity': 92, 'period_end': '2019-01-16T05:00:00.0000000Z', 'period': 'PT30M'}"
-91,"{'ghi': 385, 'ebh': 5, 'dni': 5, 'dhi': 378, 'cloud_opacity': 64, 'period_end': '2019-01-16T04:30:00.0000000Z', 'period': 'PT30M'}"
-92,"{'ghi': 646, 'ebh': 87, 'dni': 90, 'dhi': 558, 'cloud_opacity': 38, 'period_end': '2019-01-16T04:00:00.0000000Z', 'period': 'PT30M'}"
-93,"{'ghi': 460, 'ebh': 14, 'dni': 15, 'dhi': 445, 'cloud_opacity': 56, 'period_end': '2019-01-16T03:30:00.0000000Z', 'period': 'PT30M'}"
-94,"{'ghi': 488, 'ebh': 21, 'dni': 23, 'dhi': 467, 'cloud_opacity': 50, 'period_end': '2019-01-16T03:00:00.0000000Z', 'period': 'PT30M'}"
-95,"{'ghi': 484, 'ebh': 30, 'dni': 35, 'dhi': 453, 'cloud_opacity': 48, 'period_end': '2019-01-16T02:30:00.0000000Z', 'period': 'PT30M'}"
-96,"{'ghi': 436, 'ebh': 26, 'dni': 32, 'dhi': 410, 'cloud_opacity': 48, 'period_end': '2019-01-16T02:00:00.0000000Z', 'period': 'PT30M'}"
-97,"{'ghi': 332, 'ebh': 9, 'dni': 13, 'dhi': 322, 'cloud_opacity': 56, 'period_end': '2019-01-16T01:30:00.0000000Z', 'period': 'PT30M'}"
-98,"{'ghi': 286, 'ebh': 14, 'dni': 23, 'dhi': 272, 'cloud_opacity': 55, 'period_end': '2019-01-16T01:00:00.0000000Z', 'period': 'PT30M'}"
-99,"{'ghi': 262, 'ebh': 28, 'dni': 51, 'dhi': 234, 'cloud_opacity': 51, 'period_end': '2019-01-16T00:30:00.0000000Z', 'period': 'PT30M'}"
-100,"{'ghi': 275, 'ebh': 53, 'dni': 122, 'dhi': 222, 'cloud_opacity': 32, 'period_end': '2019-01-16T00:00:00.0000000Z', 'period': 'PT30M'}"
-101,"{'ghi': 158, 'ebh': 13, 'dni': 39, 'dhi': 146, 'cloud_opacity': 43, 'period_end': '2019-01-15T23:30:00.0000000Z', 'period': 'PT30M'}"
-102,"{'ghi': 91, 'ebh': 8, 'dni': 36, 'dhi': 84, 'cloud_opacity': 41, 'period_end': '2019-01-15T23:00:00.0000000Z', 'period': 'PT30M'}"
-103,"{'ghi': 31, 'ebh': 3, 'dni': 18, 'dhi': 28, 'cloud_opacity': 36, 'period_end': '2019-01-15T22:30:00.0000000Z', 'period': 'PT30M'}"
-104,"{'ghi': 3, 'ebh': 0, 'dni': 0, 'dhi': 3, 'cloud_opacity': 42, 'period_end': '2019-01-15T22:00:00.0000000Z', 'period': 'PT30M'}"
-105,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 59, 'period_end': '2019-01-15T21:30:00.0000000Z', 'period': 'PT30M'}"
-106,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 39, 'period_end': '2019-01-15T21:00:00.0000000Z', 'period': 'PT30M'}"
-107,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 35, 'period_end': '2019-01-15T20:30:00.0000000Z', 'period': 'PT30M'}"
-108,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 18, 'period_end': '2019-01-15T20:00:00.0000000Z', 'period': 'PT30M'}"
-109,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 36, 'period_end': '2019-01-15T19:30:00.0000000Z', 'period': 'PT30M'}"
-110,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 35, 'period_end': '2019-01-15T19:00:00.0000000Z', 'period': 'PT30M'}"
-111,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-15T18:30:00.0000000Z', 'period': 'PT30M'}"
-112,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 45, 'period_end': '2019-01-15T18:00:00.0000000Z', 'period': 'PT30M'}"
-113,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 45, 'period_end': '2019-01-15T17:30:00.0000000Z', 'period': 'PT30M'}"
-114,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 45, 'period_end': '2019-01-15T17:00:00.0000000Z', 'period': 'PT30M'}"
-115,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 45, 'period_end': '2019-01-15T16:30:00.0000000Z', 'period': 'PT30M'}"
-116,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 46, 'period_end': '2019-01-15T16:00:00.0000000Z', 'period': 'PT30M'}"
-117,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 45, 'period_end': '2019-01-15T15:30:00.0000000Z', 'period': 'PT30M'}"
-118,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 46, 'period_end': '2019-01-15T15:00:00.0000000Z', 'period': 'PT30M'}"
-119,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 59, 'period_end': '2019-01-15T14:30:00.0000000Z', 'period': 'PT30M'}"
-120,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 46, 'period_end': '2019-01-15T14:00:00.0000000Z', 'period': 'PT30M'}"
-121,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 45, 'period_end': '2019-01-15T13:30:00.0000000Z', 'period': 'PT30M'}"
-122,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 53, 'period_end': '2019-01-15T13:00:00.0000000Z', 'period': 'PT30M'}"
-123,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 48, 'period_end': '2019-01-15T12:30:00.0000000Z', 'period': 'PT30M'}"
-124,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 49, 'period_end': '2019-01-15T12:00:00.0000000Z', 'period': 'PT30M'}"
-125,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 31, 'period_end': '2019-01-15T11:30:00.0000000Z', 'period': 'PT30M'}"
-126,"{'ghi': 1, 'ebh': 0, 'dni': 2, 'dhi': 1, 'cloud_opacity': 19, 'period_end': '2019-01-15T11:00:00.0000000Z', 'period': 'PT30M'}"
-127,"{'ghi': 15, 'ebh': 3, 'dni': 17, 'dhi': 12, 'cloud_opacity': 18, 'period_end': '2019-01-15T10:30:00.0000000Z', 'period': 'PT30M'}"
-128,"{'ghi': 52, 'ebh': 1, 'dni': 12, 'dhi': 50, 'cloud_opacity': 48, 'period_end': '2019-01-15T10:00:00.0000000Z', 'period': 'PT30M'}"
-129,"{'ghi': 60, 'ebh': 0, 'dni': 1, 'dhi': 60, 'cloud_opacity': 72, 'period_end': '2019-01-15T09:30:00.0000000Z', 'period': 'PT30M'}"
-130,"{'ghi': 41, 'ebh': 0, 'dni': 0, 'dhi': 41, 'cloud_opacity': 87, 'period_end': '2019-01-15T09:00:00.0000000Z', 'period': 'PT30M'}"
-131,"{'ghi': 43, 'ebh': 0, 'dni': 0, 'dhi': 43, 'cloud_opacity': 90, 'period_end': '2019-01-15T08:30:00.0000000Z', 'period': 'PT30M'}"
-132,"{'ghi': 139, 'ebh': 1, 'dni': 1, 'dhi': 139, 'cloud_opacity': 76, 'period_end': '2019-01-15T08:00:00.0000000Z', 'period': 'PT30M'}"
-133,"{'ghi': 281, 'ebh': 6, 'dni': 8, 'dhi': 275, 'cloud_opacity': 60, 'period_end': '2019-01-15T07:30:00.0000000Z', 'period': 'PT30M'}"
-134,"{'ghi': 389, 'ebh': 18, 'dni': 23, 'dhi': 371, 'cloud_opacity': 51, 'period_end': '2019-01-15T07:00:00.0000000Z', 'period': 'PT30M'}"
-135,"{'ghi': 475, 'ebh': 35, 'dni': 42, 'dhi': 440, 'cloud_opacity': 46, 'period_end': '2019-01-15T06:30:00.0000000Z', 'period': 'PT30M'}"
-136,"{'ghi': 452, 'ebh': 27, 'dni': 30, 'dhi': 425, 'cloud_opacity': 53, 'period_end': '2019-01-15T06:00:00.0000000Z', 'period': 'PT30M'}"
-137,"{'ghi': 452, 'ebh': 16, 'dni': 17, 'dhi': 436, 'cloud_opacity': 56, 'period_end': '2019-01-15T05:30:00.0000000Z', 'period': 'PT30M'}"
-138,"{'ghi': 229, 'ebh': 1, 'dni': 1, 'dhi': 228, 'cloud_opacity': 77, 'period_end': '2019-01-15T05:00:00.0000000Z', 'period': 'PT30M'}"
-139,"{'ghi': 387, 'ebh': 8, 'dni': 8, 'dhi': 379, 'cloud_opacity': 63, 'period_end': '2019-01-15T04:30:00.0000000Z', 'period': 'PT30M'}"
-140,"{'ghi': 618, 'ebh': 130, 'dni': 135, 'dhi': 488, 'cloud_opacity': 42, 'period_end': '2019-01-15T04:00:00.0000000Z', 'period': 'PT30M'}"
-141,"{'ghi': 670, 'ebh': 161, 'dni': 170, 'dhi': 509, 'cloud_opacity': 36, 'period_end': '2019-01-15T03:30:00.0000000Z', 'period': 'PT30M'}"
-142,"{'ghi': 863, 'ebh': 556, 'dni': 608, 'dhi': 306, 'cloud_opacity': 13, 'period_end': '2019-01-15T03:00:00.0000000Z', 'period': 'PT30M'}"
-143,"{'ghi': 897, 'ebh': 719, 'dni': 824, 'dhi': 178, 'cloud_opacity': 3, 'period_end': '2019-01-15T02:30:00.0000000Z', 'period': 'PT30M'}"
-144,"{'ghi': 830, 'ebh': 668, 'dni': 814, 'dhi': 162, 'cloud_opacity': 3, 'period_end': '2019-01-15T02:00:00.0000000Z', 'period': 'PT30M'}"
-145,"{'ghi': 743, 'ebh': 601, 'dni': 818, 'dhi': 141, 'cloud_opacity': 3, 'period_end': '2019-01-15T01:30:00.0000000Z', 'period': 'PT30M'}"
-146,"{'ghi': 650, 'ebh': 532, 'dni': 813, 'dhi': 118, 'cloud_opacity': 1, 'period_end': '2019-01-15T01:00:00.0000000Z', 'period': 'PT30M'}"
-147,"{'ghi': 520, 'ebh': 399, 'dni': 726, 'dhi': 120, 'cloud_opacity': 3, 'period_end': '2019-01-15T00:30:00.0000000Z', 'period': 'PT30M'}"
-148,"{'ghi': 406, 'ebh': 307, 'dni': 696, 'dhi': 98, 'cloud_opacity': 1, 'period_end': '2019-01-15T00:00:00.0000000Z', 'period': 'PT30M'}"
-149,"{'ghi': 261, 'ebh': 152, 'dni': 473, 'dhi': 108, 'cloud_opacity': 8, 'period_end': '2019-01-14T23:30:00.0000000Z', 'period': 'PT30M'}"
-150,"{'ghi': 141, 'ebh': 58, 'dni': 276, 'dhi': 83, 'cloud_opacity': 13, 'period_end': '2019-01-14T23:00:00.0000000Z', 'period': 'PT30M'}"
-151,"{'ghi': 50, 'ebh': 16, 'dni': 92, 'dhi': 34, 'cloud_opacity': 10, 'period_end': '2019-01-14T22:30:00.0000000Z', 'period': 'PT30M'}"
-152,"{'ghi': 5, 'ebh': 2, 'dni': 12, 'dhi': 3, 'cloud_opacity': 0, 'period_end': '2019-01-14T22:00:00.0000000Z', 'period': 'PT30M'}"
-153,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 4, 'period_end': '2019-01-14T21:30:00.0000000Z', 'period': 'PT30M'}"
-154,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 5, 'period_end': '2019-01-14T21:00:00.0000000Z', 'period': 'PT30M'}"
-155,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-14T20:30:00.0000000Z', 'period': 'PT30M'}"
-156,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-14T20:00:00.0000000Z', 'period': 'PT30M'}"
-157,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-14T19:30:00.0000000Z', 'period': 'PT30M'}"
-158,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-14T19:00:00.0000000Z', 'period': 'PT30M'}"
-159,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-14T18:30:00.0000000Z', 'period': 'PT30M'}"
-160,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 33, 'period_end': '2019-01-14T18:00:00.0000000Z', 'period': 'PT30M'}"
-161,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 31, 'period_end': '2019-01-14T17:30:00.0000000Z', 'period': 'PT30M'}"
-162,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 31, 'period_end': '2019-01-14T17:00:00.0000000Z', 'period': 'PT30M'}"
-163,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 31, 'period_end': '2019-01-14T16:30:00.0000000Z', 'period': 'PT30M'}"
-164,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-14T16:00:00.0000000Z', 'period': 'PT30M'}"
-165,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 19, 'period_end': '2019-01-14T15:30:00.0000000Z', 'period': 'PT30M'}"
-166,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 42, 'period_end': '2019-01-14T15:00:00.0000000Z', 'period': 'PT30M'}"
-167,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 41, 'period_end': '2019-01-14T14:30:00.0000000Z', 'period': 'PT30M'}"
-168,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 40, 'period_end': '2019-01-14T14:00:00.0000000Z', 'period': 'PT30M'}"
-169,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-14T13:30:00.0000000Z', 'period': 'PT30M'}"
-170,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-14T13:00:00.0000000Z', 'period': 'PT30M'}"
-171,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-14T12:30:00.0000000Z', 'period': 'PT30M'}"
-172,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 24, 'period_end': '2019-01-14T12:00:00.0000000Z', 'period': 'PT30M'}"
-173,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 9, 'period_end': '2019-01-14T11:30:00.0000000Z', 'period': 'PT30M'}"
-174,"{'ghi': 1, 'ebh': 0, 'dni': 0, 'dhi': 1, 'cloud_opacity': 12, 'period_end': '2019-01-14T11:00:00.0000000Z', 'period': 'PT30M'}"
-175,"{'ghi': 13, 'ebh': 2, 'dni': 10, 'dhi': 10, 'cloud_opacity': 23, 'period_end': '2019-01-14T10:30:00.0000000Z', 'period': 'PT30M'}"
-176,"{'ghi': 42, 'ebh': 1, 'dni': 8, 'dhi': 41, 'cloud_opacity': 61, 'period_end': '2019-01-14T10:00:00.0000000Z', 'period': 'PT30M'}"
-177,"{'ghi': 126, 'ebh': 10, 'dni': 38, 'dhi': 115, 'cloud_opacity': 41, 'period_end': '2019-01-14T09:30:00.0000000Z', 'period': 'PT30M'}"
-178,"{'ghi': 152, 'ebh': 4, 'dni': 11, 'dhi': 147, 'cloud_opacity': 55, 'period_end': '2019-01-14T09:00:00.0000000Z', 'period': 'PT30M'}"
-179,"{'ghi': 172, 'ebh': 4, 'dni': 8, 'dhi': 167, 'cloud_opacity': 63, 'period_end': '2019-01-14T08:30:00.0000000Z', 'period': 'PT30M'}"
-180,"{'ghi': 150, 'ebh': 1, 'dni': 2, 'dhi': 149, 'cloud_opacity': 73, 'period_end': '2019-01-14T08:00:00.0000000Z', 'period': 'PT30M'}"
-181,"{'ghi': 73, 'ebh': 0, 'dni': 0, 'dhi': 73, 'cloud_opacity': 89, 'period_end': '2019-01-14T07:30:00.0000000Z', 'period': 'PT30M'}"
-182,"{'ghi': 21, 'ebh': 0, 'dni': 0, 'dhi': 21, 'cloud_opacity': 96, 'period_end': '2019-01-14T07:00:00.0000000Z', 'period': 'PT30M'}"
-183,"{'ghi': 92, 'ebh': 0, 'dni': 0, 'dhi': 92, 'cloud_opacity': 90, 'period_end': '2019-01-14T06:30:00.0000000Z', 'period': 'PT30M'}"
-184,"{'ghi': 68, 'ebh': 0, 'dni': 0, 'dhi': 68, 'cloud_opacity': 92, 'period_end': '2019-01-14T06:00:00.0000000Z', 'period': 'PT30M'}"
-185,"{'ghi': 167, 'ebh': 0, 'dni': 0, 'dhi': 167, 'cloud_opacity': 83, 'period_end': '2019-01-14T05:30:00.0000000Z', 'period': 'PT30M'}"
-186,"{'ghi': 245, 'ebh': 1, 'dni': 1, 'dhi': 245, 'cloud_opacity': 77, 'period_end': '2019-01-14T05:00:00.0000000Z', 'period': 'PT30M'}"
-187,"{'ghi': 327, 'ebh': 3, 'dni': 3, 'dhi': 324, 'cloud_opacity': 69, 'period_end': '2019-01-14T04:30:00.0000000Z', 'period': 'PT30M'}"
-188,"{'ghi': 415, 'ebh': 11, 'dni': 11, 'dhi': 404, 'cloud_opacity': 60, 'period_end': '2019-01-14T04:00:00.0000000Z', 'period': 'PT30M'}"
-189,"{'ghi': 790, 'ebh': 323, 'dni': 341, 'dhi': 467, 'cloud_opacity': 24, 'period_end': '2019-01-14T03:30:00.0000000Z', 'period': 'PT30M'}"
-190,"{'ghi': 765, 'ebh': 346, 'dni': 376, 'dhi': 419, 'cloud_opacity': 23, 'period_end': '2019-01-14T03:00:00.0000000Z', 'period': 'PT30M'}"
-191,"{'ghi': 811, 'ebh': 526, 'dni': 607, 'dhi': 285, 'cloud_opacity': 13, 'period_end': '2019-01-14T02:30:00.0000000Z', 'period': 'PT30M'}"
-192,"{'ghi': 554, 'ebh': 146, 'dni': 178, 'dhi': 408, 'cloud_opacity': 35, 'period_end': '2019-01-14T02:00:00.0000000Z', 'period': 'PT30M'}"
-193,"{'ghi': 376, 'ebh': 19, 'dni': 26, 'dhi': 358, 'cloud_opacity': 50, 'period_end': '2019-01-14T01:30:00.0000000Z', 'period': 'PT30M'}"
-194,"{'ghi': 377, 'ebh': 39, 'dni': 62, 'dhi': 337, 'cloud_opacity': 41, 'period_end': '2019-01-14T01:00:00.0000000Z', 'period': 'PT30M'}"
-195,"{'ghi': 353, 'ebh': 87, 'dni': 168, 'dhi': 266, 'cloud_opacity': 34, 'period_end': '2019-01-14T00:30:00.0000000Z', 'period': 'PT30M'}"
-196,"{'ghi': 372, 'ebh': 232, 'dni': 533, 'dhi': 140, 'cloud_opacity': 10, 'period_end': '2019-01-14T00:00:00.0000000Z', 'period': 'PT30M'}"
-197,"{'ghi': 221, 'ebh': 77, 'dni': 228, 'dhi': 143, 'cloud_opacity': 23, 'period_end': '2019-01-13T23:30:00.0000000Z', 'period': 'PT30M'}"
-198,"{'ghi': 112, 'ebh': 20, 'dni': 97, 'dhi': 91, 'cloud_opacity': 29, 'period_end': '2019-01-13T23:00:00.0000000Z', 'period': 'PT30M'}"
-199,"{'ghi': 46, 'ebh': 11, 'dni': 67, 'dhi': 34, 'cloud_opacity': 21, 'period_end': '2019-01-13T22:30:00.0000000Z', 'period': 'PT30M'}"
-200,"{'ghi': 4, 'ebh': 1, 'dni': 4, 'dhi': 3, 'cloud_opacity': 33, 'period_end': '2019-01-13T22:00:00.0000000Z', 'period': 'PT30M'}"
-201,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 20, 'period_end': '2019-01-13T21:30:00.0000000Z', 'period': 'PT30M'}"
-202,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-13T21:00:00.0000000Z', 'period': 'PT30M'}"
-203,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 31, 'period_end': '2019-01-13T20:30:00.0000000Z', 'period': 'PT30M'}"
-204,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 22, 'period_end': '2019-01-13T20:00:00.0000000Z', 'period': 'PT30M'}"
-205,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-13T19:30:00.0000000Z', 'period': 'PT30M'}"
-206,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-13T19:00:00.0000000Z', 'period': 'PT30M'}"
-207,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 35, 'period_end': '2019-01-13T18:30:00.0000000Z', 'period': 'PT30M'}"
-208,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 29, 'period_end': '2019-01-13T18:00:00.0000000Z', 'period': 'PT30M'}"
-209,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 28, 'period_end': '2019-01-13T17:30:00.0000000Z', 'period': 'PT30M'}"
-210,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-13T17:00:00.0000000Z', 'period': 'PT30M'}"
-211,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-13T16:30:00.0000000Z', 'period': 'PT30M'}"
-212,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-13T16:00:00.0000000Z', 'period': 'PT30M'}"
-213,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 29, 'period_end': '2019-01-13T15:30:00.0000000Z', 'period': 'PT30M'}"
-214,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 31, 'period_end': '2019-01-13T15:00:00.0000000Z', 'period': 'PT30M'}"
-215,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 29, 'period_end': '2019-01-13T14:30:00.0000000Z', 'period': 'PT30M'}"
-216,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-13T14:00:00.0000000Z', 'period': 'PT30M'}"
-217,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 28, 'period_end': '2019-01-13T13:30:00.0000000Z', 'period': 'PT30M'}"
-218,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 31, 'period_end': '2019-01-13T13:00:00.0000000Z', 'period': 'PT30M'}"
-219,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 31, 'period_end': '2019-01-13T12:30:00.0000000Z', 'period': 'PT30M'}"
-220,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 44, 'period_end': '2019-01-13T12:00:00.0000000Z', 'period': 'PT30M'}"
-221,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 43, 'period_end': '2019-01-13T11:30:00.0000000Z', 'period': 'PT30M'}"
-222,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 37, 'period_end': '2019-01-13T11:00:00.0000000Z', 'period': 'PT30M'}"
-223,"{'ghi': 14, 'ebh': 2, 'dni': 12, 'dhi': 12, 'cloud_opacity': 28, 'period_end': '2019-01-13T10:30:00.0000000Z', 'period': 'PT30M'}"
-224,"{'ghi': 99, 'ebh': 45, 'dni': 250, 'dhi': 53, 'cloud_opacity': 4, 'period_end': '2019-01-13T10:00:00.0000000Z', 'period': 'PT30M'}"
-225,"{'ghi': 219, 'ebh': 142, 'dni': 534, 'dhi': 78, 'cloud_opacity': 0, 'period_end': '2019-01-13T09:30:00.0000000Z', 'period': 'PT30M'}"
-226,"{'ghi': 301, 'ebh': 156, 'dni': 428, 'dhi': 145, 'cloud_opacity': 12, 'period_end': '2019-01-13T09:00:00.0000000Z', 'period': 'PT30M'}"
-227,"{'ghi': 304, 'ebh': 60, 'dni': 129, 'dhi': 243, 'cloud_opacity': 35, 'period_end': '2019-01-13T08:30:00.0000000Z', 'period': 'PT30M'}"
-228,"{'ghi': 422, 'ebh': 115, 'dni': 193, 'dhi': 305, 'cloud_opacity': 29, 'period_end': '2019-01-13T08:00:00.0000000Z', 'period': 'PT30M'}"
-229,"{'ghi': 626, 'ebh': 410, 'dni': 603, 'dhi': 216, 'cloud_opacity': 12, 'period_end': '2019-01-13T07:30:00.0000000Z', 'period': 'PT30M'}"
-230,"{'ghi': 699, 'ebh': 439, 'dni': 583, 'dhi': 260, 'cloud_opacity': 13, 'period_end': '2019-01-13T07:00:00.0000000Z', 'period': 'PT30M'}"
-231,"{'ghi': 702, 'ebh': 327, 'dni': 397, 'dhi': 375, 'cloud_opacity': 22, 'period_end': '2019-01-13T06:30:00.0000000Z', 'period': 'PT30M'}"
-232,"{'ghi': 592, 'ebh': 111, 'dni': 124, 'dhi': 480, 'cloud_opacity': 39, 'period_end': '2019-01-13T06:00:00.0000000Z', 'period': 'PT30M'}"
-233,"{'ghi': 525, 'ebh': 40, 'dni': 43, 'dhi': 485, 'cloud_opacity': 48, 'period_end': '2019-01-13T05:30:00.0000000Z', 'period': 'PT30M'}"
-234,"{'ghi': 495, 'ebh': 17, 'dni': 18, 'dhi': 477, 'cloud_opacity': 52, 'period_end': '2019-01-13T05:00:00.0000000Z', 'period': 'PT30M'}"
-235,"{'ghi': 778, 'ebh': 309, 'dni': 318, 'dhi': 468, 'cloud_opacity': 27, 'period_end': '2019-01-13T04:30:00.0000000Z', 'period': 'PT30M'}"
-236,"{'ghi': 937, 'ebh': 633, 'dni': 654, 'dhi': 303, 'cloud_opacity': 12, 'period_end': '2019-01-13T04:00:00.0000000Z', 'period': 'PT30M'}"
-237,"{'ghi': 905, 'ebh': 592, 'dni': 624, 'dhi': 313, 'cloud_opacity': 14, 'period_end': '2019-01-13T03:30:00.0000000Z', 'period': 'PT30M'}"
-238,"{'ghi': 928, 'ebh': 710, 'dni': 776, 'dhi': 218, 'cloud_opacity': 8, 'period_end': '2019-01-13T03:00:00.0000000Z', 'period': 'PT30M'}"
-239,"{'ghi': 944, 'ebh': 809, 'dni': 908, 'dhi': 135, 'cloud_opacity': 0, 'period_end': '2019-01-13T02:30:00.0000000Z', 'period': 'PT30M'}"
-240,"{'ghi': 868, 'ebh': 740, 'dni': 892, 'dhi': 126, 'cloud_opacity': 0, 'period_end': '2019-01-13T02:00:00.0000000Z', 'period': 'PT30M'}"
-241,"{'ghi': 774, 'ebh': 656, 'dni': 868, 'dhi': 118, 'cloud_opacity': 0, 'period_end': '2019-01-13T01:30:00.0000000Z', 'period': 'PT30M'}"
-242,"{'ghi': 665, 'ebh': 558, 'dni': 836, 'dhi': 107, 'cloud_opacity': 0, 'period_end': '2019-01-13T01:00:00.0000000Z', 'period': 'PT30M'}"
-243,"{'ghi': 548, 'ebh': 451, 'dni': 793, 'dhi': 96, 'cloud_opacity': 0, 'period_end': '2019-01-13T00:30:00.0000000Z', 'period': 'PT30M'}"
-244,"{'ghi': 424, 'ebh': 340, 'dni': 732, 'dhi': 84, 'cloud_opacity': 0, 'period_end': '2019-01-13T00:00:00.0000000Z', 'period': 'PT30M'}"
-245,"{'ghi': 276, 'ebh': 178, 'dni': 526, 'dhi': 96, 'cloud_opacity': 7, 'period_end': '2019-01-12T23:30:00.0000000Z', 'period': 'PT30M'}"
-246,"{'ghi': 157, 'ebh': 82, 'dni': 396, 'dhi': 74, 'cloud_opacity': 6, 'period_end': '2019-01-12T23:00:00.0000000Z', 'period': 'PT30M'}"
-247,"{'ghi': 61, 'ebh': 30, 'dni': 182, 'dhi': 30, 'cloud_opacity': 0, 'period_end': '2019-01-12T22:30:00.0000000Z', 'period': 'PT30M'}"
-248,"{'ghi': 5, 'ebh': 2, 'dni': 12, 'dhi': 3, 'cloud_opacity': 0, 'period_end': '2019-01-12T22:00:00.0000000Z', 'period': 'PT30M'}"
-249,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T21:30:00.0000000Z', 'period': 'PT30M'}"
-250,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T21:00:00.0000000Z', 'period': 'PT30M'}"
-251,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T20:30:00.0000000Z', 'period': 'PT30M'}"
-252,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T20:00:00.0000000Z', 'period': 'PT30M'}"
-253,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T19:30:00.0000000Z', 'period': 'PT30M'}"
-254,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T19:00:00.0000000Z', 'period': 'PT30M'}"
-255,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T18:30:00.0000000Z', 'period': 'PT30M'}"
-256,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T18:00:00.0000000Z', 'period': 'PT30M'}"
-257,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T17:30:00.0000000Z', 'period': 'PT30M'}"
-258,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T17:00:00.0000000Z', 'period': 'PT30M'}"
-259,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T16:30:00.0000000Z', 'period': 'PT30M'}"
-260,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T16:00:00.0000000Z', 'period': 'PT30M'}"
-261,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T15:30:00.0000000Z', 'period': 'PT30M'}"
-262,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T15:00:00.0000000Z', 'period': 'PT30M'}"
-263,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T14:30:00.0000000Z', 'period': 'PT30M'}"
-264,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T14:00:00.0000000Z', 'period': 'PT30M'}"
-265,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T13:30:00.0000000Z', 'period': 'PT30M'}"
-266,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T13:00:00.0000000Z', 'period': 'PT30M'}"
-267,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T12:30:00.0000000Z', 'period': 'PT30M'}"
-268,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T12:00:00.0000000Z', 'period': 'PT30M'}"
-269,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T11:30:00.0000000Z', 'period': 'PT30M'}"
-270,"{'ghi': 1, 'ebh': 0, 'dni': 2, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-12T11:00:00.0000000Z', 'period': 'PT30M'}"
-271,"{'ghi': 18, 'ebh': 7, 'dni': 43, 'dhi': 10, 'cloud_opacity': 0, 'period_end': '2019-01-12T10:30:00.0000000Z', 'period': 'PT30M'}"
-272,"{'ghi': 100, 'ebh': 48, 'dni': 263, 'dhi': 52, 'cloud_opacity': 6, 'period_end': '2019-01-12T10:00:00.0000000Z', 'period': 'PT30M'}"
-273,"{'ghi': 222, 'ebh': 144, 'dni': 541, 'dhi': 77, 'cloud_opacity': 0, 'period_end': '2019-01-12T09:30:00.0000000Z', 'period': 'PT30M'}"
-274,"{'ghi': 349, 'ebh': 259, 'dni': 682, 'dhi': 90, 'cloud_opacity': 0, 'period_end': '2019-01-12T09:00:00.0000000Z', 'period': 'PT30M'}"
-275,"{'ghi': 441, 'ebh': 297, 'dni': 621, 'dhi': 143, 'cloud_opacity': 7, 'period_end': '2019-01-12T08:30:00.0000000Z', 'period': 'PT30M'}"
-276,"{'ghi': 384, 'ebh': 96, 'dni': 175, 'dhi': 287, 'cloud_opacity': 35, 'period_end': '2019-01-12T08:00:00.0000000Z', 'period': 'PT30M'}"
-277,"{'ghi': 566, 'ebh': 331, 'dni': 476, 'dhi': 234, 'cloud_opacity': 21, 'period_end': '2019-01-12T07:30:00.0000000Z', 'period': 'PT30M'}"
-278,"{'ghi': 600, 'ebh': 212, 'dni': 278, 'dhi': 388, 'cloud_opacity': 27, 'period_end': '2019-01-12T07:00:00.0000000Z', 'period': 'PT30M'}"
-279,"{'ghi': 698, 'ebh': 325, 'dni': 389, 'dhi': 373, 'cloud_opacity': 23, 'period_end': '2019-01-12T06:30:00.0000000Z', 'period': 'PT30M'}"
-280,"{'ghi': 660, 'ebh': 179, 'dni': 204, 'dhi': 482, 'cloud_opacity': 31, 'period_end': '2019-01-12T06:00:00.0000000Z', 'period': 'PT30M'}"
-281,"{'ghi': 638, 'ebh': 96, 'dni': 103, 'dhi': 542, 'cloud_opacity': 38, 'period_end': '2019-01-12T05:30:00.0000000Z', 'period': 'PT30M'}"
-282,"{'ghi': 734, 'ebh': 190, 'dni': 199, 'dhi': 543, 'cloud_opacity': 31, 'period_end': '2019-01-12T05:00:00.0000000Z', 'period': 'PT30M'}"
-283,"{'ghi': 872, 'ebh': 475, 'dni': 489, 'dhi': 397, 'cloud_opacity': 19, 'period_end': '2019-01-12T04:30:00.0000000Z', 'period': 'PT30M'}"
-284,"{'ghi': 800, 'ebh': 301, 'dni': 312, 'dhi': 498, 'cloud_opacity': 26, 'period_end': '2019-01-12T04:00:00.0000000Z', 'period': 'PT30M'}"
-285,"{'ghi': 1000, 'ebh': 804, 'dni': 839, 'dhi': 196, 'cloud_opacity': 5, 'period_end': '2019-01-12T03:30:00.0000000Z', 'period': 'PT30M'}"
-286,"{'ghi': 947, 'ebh': 746, 'dni': 806, 'dhi': 201, 'cloud_opacity': 6, 'period_end': '2019-01-12T03:00:00.0000000Z', 'period': 'PT30M'}"
-287,"{'ghi': 946, 'ebh': 812, 'dni': 909, 'dhi': 134, 'cloud_opacity': 0, 'period_end': '2019-01-12T02:30:00.0000000Z', 'period': 'PT30M'}"
-288,"{'ghi': 867, 'ebh': 741, 'dni': 891, 'dhi': 126, 'cloud_opacity': 0, 'period_end': '2019-01-12T02:00:00.0000000Z', 'period': 'PT30M'}"
-289,"{'ghi': 773, 'ebh': 655, 'dni': 866, 'dhi': 117, 'cloud_opacity': 0, 'period_end': '2019-01-12T01:30:00.0000000Z', 'period': 'PT30M'}"
-290,"{'ghi': 666, 'ebh': 560, 'dni': 833, 'dhi': 107, 'cloud_opacity': 0, 'period_end': '2019-01-12T01:00:00.0000000Z', 'period': 'PT30M'}"
-291,"{'ghi': 548, 'ebh': 451, 'dni': 787, 'dhi': 97, 'cloud_opacity': 0, 'period_end': '2019-01-12T00:30:00.0000000Z', 'period': 'PT30M'}"
-292,"{'ghi': 423, 'ebh': 332, 'dni': 723, 'dhi': 90, 'cloud_opacity': 0, 'period_end': '2019-01-12T00:00:00.0000000Z', 'period': 'PT30M'}"
-293,"{'ghi': 293, 'ebh': 211, 'dni': 624, 'dhi': 83, 'cloud_opacity': 0, 'period_end': '2019-01-11T23:30:00.0000000Z', 'period': 'PT30M'}"
-294,"{'ghi': 169, 'ebh': 102, 'dni': 454, 'dhi': 66, 'cloud_opacity': 0, 'period_end': '2019-01-11T23:00:00.0000000Z', 'period': 'PT30M'}"
-295,"{'ghi': 61, 'ebh': 30, 'dni': 180, 'dhi': 32, 'cloud_opacity': 0, 'period_end': '2019-01-11T22:30:00.0000000Z', 'period': 'PT30M'}"
-296,"{'ghi': 6, 'ebh': 2, 'dni': 14, 'dhi': 3, 'cloud_opacity': 0, 'period_end': '2019-01-11T22:00:00.0000000Z', 'period': 'PT30M'}"
-297,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-11T21:30:00.0000000Z', 'period': 'PT30M'}"
-298,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-11T21:00:00.0000000Z', 'period': 'PT30M'}"
-299,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-11T20:30:00.0000000Z', 'period': 'PT30M'}"
-300,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-11T20:00:00.0000000Z', 'period': 'PT30M'}"
-301,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-11T19:30:00.0000000Z', 'period': 'PT30M'}"
-302,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 9, 'period_end': '2019-01-11T19:00:00.0000000Z', 'period': 'PT30M'}"
-303,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 33, 'period_end': '2019-01-11T18:30:00.0000000Z', 'period': 'PT30M'}"
-304,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 10, 'period_end': '2019-01-11T18:00:00.0000000Z', 'period': 'PT30M'}"
-305,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-11T17:30:00.0000000Z', 'period': 'PT30M'}"
-306,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-11T17:00:00.0000000Z', 'period': 'PT30M'}"
-307,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 0, 'period_end': '2019-01-11T16:30:00.0000000Z', 'period': 'PT30M'}"
-308,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 21, 'period_end': '2019-01-11T16:00:00.0000000Z', 'period': 'PT30M'}"
-309,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 29, 'period_end': '2019-01-11T15:30:00.0000000Z', 'period': 'PT30M'}"
-310,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 31, 'period_end': '2019-01-11T15:00:00.0000000Z', 'period': 'PT30M'}"
-311,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 28, 'period_end': '2019-01-11T14:30:00.0000000Z', 'period': 'PT30M'}"
-312,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 33, 'period_end': '2019-01-11T14:00:00.0000000Z', 'period': 'PT30M'}"
-313,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 29, 'period_end': '2019-01-11T13:30:00.0000000Z', 'period': 'PT30M'}"
-314,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 24, 'period_end': '2019-01-11T13:00:00.0000000Z', 'period': 'PT30M'}"
-315,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-11T12:30:00.0000000Z', 'period': 'PT30M'}"
-316,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-11T12:00:00.0000000Z', 'period': 'PT30M'}"
-317,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 31, 'period_end': '2019-01-11T11:30:00.0000000Z', 'period': 'PT30M'}"
-318,"{'ghi': 0, 'ebh': 0, 'dni': 0, 'dhi': 0, 'cloud_opacity': 30, 'period_end': '2019-01-11T11:00:00.0000000Z', 'period': 'PT30M'}"
-319,"{'ghi': 13, 'ebh': 2, 'dni': 12, 'dhi': 11, 'cloud_opacity': 29, 'period_end': '2019-01-11T10:30:00.0000000Z', 'period': 'PT30M'}"
-320,"{'ghi': 100, 'ebh': 51, 'dni': 286, 'dhi': 49, 'cloud_opacity': 0, 'period_end': '2019-01-11T10:00:00.0000000Z', 'period': 'PT30M'}"
-321,"{'ghi': 186, 'ebh': 76, 'dni': 299, 'dhi': 109, 'cloud_opacity': 12, 'period_end': '2019-01-11T09:30:00.0000000Z', 'period': 'PT30M'}"
-322,"{'ghi': 282, 'ebh': 120, 'dni': 337, 'dhi': 161, 'cloud_opacity': 17, 'period_end': '2019-01-11T09:00:00.0000000Z', 'period': 'PT30M'}"
-323,"{'ghi': 395, 'ebh': 205, 'dni': 436, 'dhi': 190, 'cloud_opacity': 16, 'period_end': '2019-01-11T08:30:00.0000000Z', 'period': 'PT30M'}"
-324,"{'ghi': 358, 'ebh': 45, 'dni': 79, 'dhi': 313, 'cloud_opacity': 39, 'period_end': '2019-01-11T08:00:00.0000000Z', 'period': 'PT30M'}"
-325,"{'ghi': 252, 'ebh': 5, 'dni': 8, 'dhi': 247, 'cloud_opacity': 64, 'period_end': '2019-01-11T07:30:00.0000000Z', 'period': 'PT30M'}"
-326,"{'ghi': 59, 'ebh': 0, 'dni': 0, 'dhi': 59, 'cloud_opacity': 92, 'period_end': '2019-01-11T07:00:00.0000000Z', 'period': 'PT30M'}"
-327,"{'ghi': 159, 'ebh': 0, 'dni': 0, 'dhi': 159, 'cloud_opacity': 81, 'period_end': '2019-01-11T06:30:00.0000000Z', 'period': 'PT30M'}"
-328,"{'ghi': 290, 'ebh': 2, 'dni': 3, 'dhi': 287, 'cloud_opacity': 69, 'period_end': '2019-01-11T06:00:00.0000000Z', 'period': 'PT30M'}"
-329,"{'ghi': 270, 'ebh': 3, 'dni': 3, 'dhi': 267, 'cloud_opacity': 73, 'period_end': '2019-01-11T05:30:00.0000000Z', 'period': 'PT30M'}"
-330,"{'ghi': 356, 'ebh': 4, 'dni': 4, 'dhi': 352, 'cloud_opacity': 66, 'period_end': '2019-01-11T05:00:00.0000000Z', 'period': 'PT30M'}"
-331,"{'ghi': 320, 'ebh': 3, 'dni': 3, 'dhi': 317, 'cloud_opacity': 69, 'period_end': '2019-01-11T04:30:00.0000000Z', 'period': 'PT30M'}"
-332,"{'ghi': 415, 'ebh': 11, 'dni': 12, 'dhi': 403, 'cloud_opacity': 60, 'period_end': '2019-01-11T04:00:00.0000000Z', 'period': 'PT30M'}"
-333,"{'ghi': 687, 'ebh': 142, 'dni': 150, 'dhi': 544, 'cloud_opacity': 33, 'period_end': '2019-01-11T03:30:00.0000000Z', 'period': 'PT30M'}"
-334,"{'ghi': 804, 'ebh': 416, 'dni': 456, 'dhi': 387, 'cloud_opacity': 19, 'period_end': '2019-01-11T03:00:00.0000000Z', 'period': 'PT30M'}"
+,cloud_opacity,dhi,dni,ebh,ghi,period,period_end
+0,53,2,0,0,2,PT30M,2019-01-18T22:00:00.0000000Z
+1,58,0,0,0,0,PT30M,2019-01-18T21:30:00.0000000Z
+2,50,0,0,0,0,PT30M,2019-01-18T21:00:00.0000000Z
+3,59,0,0,0,0,PT30M,2019-01-18T20:30:00.0000000Z
+4,63,0,0,0,0,PT30M,2019-01-18T20:00:00.0000000Z
+5,53,0,0,0,0,PT30M,2019-01-18T19:30:00.0000000Z
+6,64,0,0,0,0,PT30M,2019-01-18T19:00:00.0000000Z
+7,46,0,0,0,0,PT30M,2019-01-18T18:30:00.0000000Z
+8,61,0,0,0,0,PT30M,2019-01-18T18:00:00.0000000Z
+9,60,0,0,0,0,PT30M,2019-01-18T17:30:00.0000000Z
+10,53,0,0,0,0,PT30M,2019-01-18T17:00:00.0000000Z
+11,60,0,0,0,0,PT30M,2019-01-18T16:30:00.0000000Z
+12,60,0,0,0,0,PT30M,2019-01-18T16:00:00.0000000Z
+13,60,0,0,0,0,PT30M,2019-01-18T15:30:00.0000000Z
+14,60,0,0,0,0,PT30M,2019-01-18T15:00:00.0000000Z
+15,61,0,0,0,0,PT30M,2019-01-18T14:30:00.0000000Z
+16,41,0,0,0,0,PT30M,2019-01-18T14:00:00.0000000Z
+17,65,0,0,0,0,PT30M,2019-01-18T13:30:00.0000000Z
+18,60,0,0,0,0,PT30M,2019-01-18T13:00:00.0000000Z
+19,57,0,0,0,0,PT30M,2019-01-18T12:30:00.0000000Z
+20,43,0,0,0,0,PT30M,2019-01-18T12:00:00.0000000Z
+21,36,0,0,0,0,PT30M,2019-01-18T11:30:00.0000000Z
+22,19,1,2,0,1,PT30M,2019-01-18T11:00:00.0000000Z
+23,12,13,25,4,17,PT30M,2019-01-18T10:30:00.0000000Z
+24,51,44,26,4,48,PT30M,2019-01-18T10:00:00.0000000Z
+25,65,80,5,1,82,PT30M,2019-01-18T09:30:00.0000000Z
+26,50,144,70,25,170,PT30M,2019-01-18T09:00:00.0000000Z
+27,68,151,3,1,152,PT30M,2019-01-18T08:30:00.0000000Z
+28,73,156,3,2,158,PT30M,2019-01-18T08:00:00.0000000Z
+29,61,272,6,4,277,PT30M,2019-01-18T07:30:00.0000000Z
+30,67,270,3,2,272,PT30M,2019-01-18T07:00:00.0000000Z
+31,72,253,1,1,255,PT30M,2019-01-18T06:30:00.0000000Z
+32,86,124,0,0,124,PT30M,2019-01-18T06:00:00.0000000Z
+33,69,304,2,2,306,PT30M,2019-01-18T05:30:00.0000000Z
+34,87,134,0,0,134,PT30M,2019-01-18T05:00:00.0000000Z
+35,73,278,2,2,280,PT30M,2019-01-18T04:30:00.0000000Z
+36,54,445,34,33,478,PT30M,2019-01-18T04:00:00.0000000Z
+37,61,392,11,11,402,PT30M,2019-01-18T03:30:00.0000000Z
+38,46,442,97,88,530,PT30M,2019-01-18T03:00:00.0000000Z
+39,19,357,469,406,763,PT30M,2019-01-18T02:30:00.0000000Z
+40,9,214,708,569,784,PT30M,2019-01-18T02:00:00.0000000Z
+41,18,304,431,314,619,PT30M,2019-01-18T01:30:00.0000000Z
+42,11,203,587,375,579,PT30M,2019-01-18T01:00:00.0000000Z
+43,20,241,342,182,424,PT30M,2019-01-18T00:30:00.0000000Z
+44,5,121,614,264,386,PT30M,2019-01-18T00:00:00.0000000Z
+45,3,89,576,185,274,PT30M,2019-01-17T23:30:00.0000000Z
+46,2,67,414,86,153,PT30M,2019-01-17T23:00:00.0000000Z
+47,33,29,29,5,34,PT30M,2019-01-17T22:30:00.0000000Z
+48,61,2,0,0,2,PT30M,2019-01-17T22:00:00.0000000Z
+49,60,0,0,0,0,PT30M,2019-01-17T21:30:00.0000000Z
+50,59,0,0,0,0,PT30M,2019-01-17T21:00:00.0000000Z
+51,60,0,0,0,0,PT30M,2019-01-17T20:30:00.0000000Z
+52,59,0,0,0,0,PT30M,2019-01-17T20:00:00.0000000Z
+53,60,0,0,0,0,PT30M,2019-01-17T19:30:00.0000000Z
+54,58,0,0,0,0,PT30M,2019-01-17T19:00:00.0000000Z
+55,54,0,0,0,0,PT30M,2019-01-17T18:30:00.0000000Z
+56,60,0,0,0,0,PT30M,2019-01-17T18:00:00.0000000Z
+57,60,0,0,0,0,PT30M,2019-01-17T17:30:00.0000000Z
+58,60,0,0,0,0,PT30M,2019-01-17T17:00:00.0000000Z
+59,60,0,0,0,0,PT30M,2019-01-17T16:30:00.0000000Z
+60,60,0,0,0,0,PT30M,2019-01-17T16:00:00.0000000Z
+61,60,0,0,0,0,PT30M,2019-01-17T15:30:00.0000000Z
+62,60,0,0,0,0,PT30M,2019-01-17T15:00:00.0000000Z
+63,61,0,0,0,0,PT30M,2019-01-17T14:30:00.0000000Z
+64,61,0,0,0,0,PT30M,2019-01-17T14:00:00.0000000Z
+65,57,0,0,0,0,PT30M,2019-01-17T13:00:00.0000000Z
+66,54,0,0,0,0,PT30M,2019-01-17T12:30:00.0000000Z
+67,71,0,0,0,0,PT30M,2019-01-17T12:00:00.0000000Z
+68,67,0,0,0,0,PT30M,2019-01-17T11:30:00.0000000Z
+69,51,1,0,0,1,PT30M,2019-01-17T11:00:00.0000000Z
+70,32,11,7,1,13,PT30M,2019-01-17T10:30:00.0000000Z
+71,63,38,4,1,39,PT30M,2019-01-17T10:00:00.0000000Z
+72,62,82,5,1,83,PT30M,2019-01-17T09:30:00.0000000Z
+73,72,95,2,0,96,PT30M,2019-01-17T09:00:00.0000000Z
+74,75,117,1,0,117,PT30M,2019-01-17T08:30:00.0000000Z
+75,82,100,0,0,100,PT30M,2019-01-17T08:00:00.0000000Z
+76,85,101,0,0,101,PT30M,2019-01-17T07:30:00.0000000Z
+77,89,89,0,0,89,PT30M,2019-01-17T07:00:00.0000000Z
+78,88,97,0,0,97,PT30M,2019-01-17T06:30:00.0000000Z
+79,87,116,0,0,116,PT30M,2019-01-17T06:00:00.0000000Z
+80,83,160,0,0,160,PT30M,2019-01-17T05:30:00.0000000Z
+81,75,259,1,1,260,PT30M,2019-01-17T05:00:00.0000000Z
+82,79,214,0,0,214,PT30M,2019-01-17T04:30:00.0000000Z
+83,81,195,0,0,196,PT30M,2019-01-17T04:00:00.0000000Z
+84,82,190,0,0,190,PT30M,2019-01-17T03:30:00.0000000Z
+85,76,237,1,1,238,PT30M,2019-01-17T03:00:00.0000000Z
+86,48,452,31,27,480,PT30M,2019-01-17T02:30:00.0000000Z
+87,40,422,102,82,506,PT30M,2019-01-17T02:00:00.0000000Z
+88,27,374,242,177,551,PT30M,2019-01-17T01:30:00.0000000Z
+89,31,332,180,116,449,PT30M,2019-01-17T01:00:00.0000000Z
+90,38,280,81,44,325,PT30M,2019-01-17T00:30:00.0000000Z
+91,42,208,60,27,235,PT30M,2019-01-17T00:00:00.0000000Z
+92,56,117,11,3,120,PT30M,2019-01-16T23:30:00.0000000Z
+93,28,91,89,18,109,PT30M,2019-01-16T23:00:00.0000000Z
+94,49,26,32,5,31,PT30M,2019-01-16T22:30:00.0000000Z
+95,76,1,0,0,1,PT30M,2019-01-16T22:00:00.0000000Z
+96,75,0,0,0,0,PT30M,2019-01-16T21:30:00.0000000Z
+97,74,0,0,0,0,PT30M,2019-01-16T21:00:00.0000000Z
+98,74,0,0,0,0,PT30M,2019-01-16T20:30:00.0000000Z
+99,75,0,0,0,0,PT30M,2019-01-16T20:00:00.0000000Z
+100,57,0,0,0,0,PT30M,2019-01-16T19:30:00.0000000Z
+101,57,0,0,0,0,PT30M,2019-01-16T19:00:00.0000000Z
+102,75,0,0,0,0,PT30M,2019-01-16T18:30:00.0000000Z
+103,76,0,0,0,0,PT30M,2019-01-16T18:00:00.0000000Z
+104,75,0,0,0,0,PT30M,2019-01-16T17:30:00.0000000Z
+105,74,0,0,0,0,PT30M,2019-01-16T17:00:00.0000000Z
+106,62,0,0,0,0,PT30M,2019-01-16T16:30:00.0000000Z
+107,70,0,0,0,0,PT30M,2019-01-16T16:00:00.0000000Z
+108,72,0,0,0,0,PT30M,2019-01-16T15:30:00.0000000Z
+109,60,0,0,0,0,PT30M,2019-01-16T15:00:00.0000000Z
+110,57,0,0,0,0,PT30M,2019-01-16T14:30:00.0000000Z
+111,46,0,0,0,0,PT30M,2019-01-16T14:00:00.0000000Z
+112,52,0,0,0,0,PT30M,2019-01-16T13:30:00.0000000Z
+113,60,0,0,0,0,PT30M,2019-01-16T13:00:00.0000000Z
+114,60,0,0,0,0,PT30M,2019-01-16T12:30:00.0000000Z
+115,60,0,0,0,0,PT30M,2019-01-16T12:00:00.0000000Z
+116,60,0,0,0,0,PT30M,2019-01-16T11:30:00.0000000Z
+117,61,0,0,0,0,PT30M,2019-01-16T11:00:00.0000000Z
+118,55,9,2,0,10,PT30M,2019-01-16T10:30:00.0000000Z
+119,56,44,7,1,45,PT30M,2019-01-16T10:00:00.0000000Z
+120,62,78,13,2,81,PT30M,2019-01-16T09:30:00.0000000Z
+121,61,130,6,2,133,PT30M,2019-01-16T09:00:00.0000000Z
+122,59,191,9,4,196,PT30M,2019-01-16T08:30:00.0000000Z
+123,54,264,16,10,274,PT30M,2019-01-16T08:00:00.0000000Z
+124,55,304,13,9,313,PT30M,2019-01-16T07:30:00.0000000Z
+125,62,295,6,4,300,PT30M,2019-01-16T07:00:00.0000000Z
+126,64,309,4,3,312,PT30M,2019-01-16T06:30:00.0000000Z
+127,53,432,20,18,451,PT30M,2019-01-16T06:00:00.0000000Z
+128,56,425,18,17,442,PT30M,2019-01-16T05:30:00.0000000Z
+129,92,73,0,0,73,PT30M,2019-01-16T05:00:00.0000000Z
+130,64,378,5,5,385,PT30M,2019-01-16T04:30:00.0000000Z
+131,38,558,90,87,646,PT30M,2019-01-16T04:00:00.0000000Z
+132,56,445,15,14,460,PT30M,2019-01-16T03:30:00.0000000Z
+133,50,467,23,21,488,PT30M,2019-01-16T03:00:00.0000000Z
+134,48,453,35,30,484,PT30M,2019-01-16T02:30:00.0000000Z
+135,48,410,32,26,436,PT30M,2019-01-16T02:00:00.0000000Z
+136,56,322,13,9,332,PT30M,2019-01-16T01:30:00.0000000Z
+137,55,272,23,14,286,PT30M,2019-01-16T01:00:00.0000000Z
+138,51,234,51,28,262,PT30M,2019-01-16T00:30:00.0000000Z
+139,32,222,122,53,275,PT30M,2019-01-16T00:00:00.0000000Z
+140,43,146,39,13,158,PT30M,2019-01-15T23:30:00.0000000Z
+141,41,84,36,8,91,PT30M,2019-01-15T23:00:00.0000000Z
+142,36,28,18,3,31,PT30M,2019-01-15T22:30:00.0000000Z
+143,42,3,0,0,3,PT30M,2019-01-15T22:00:00.0000000Z
+144,59,0,0,0,0,PT30M,2019-01-15T21:30:00.0000000Z
+145,39,0,0,0,0,PT30M,2019-01-15T21:00:00.0000000Z
+146,35,0,0,0,0,PT30M,2019-01-15T20:30:00.0000000Z
+147,18,0,0,0,0,PT30M,2019-01-15T20:00:00.0000000Z
+148,36,0,0,0,0,PT30M,2019-01-15T19:30:00.0000000Z
+149,35,0,0,0,0,PT30M,2019-01-15T19:00:00.0000000Z
+150,30,0,0,0,0,PT30M,2019-01-15T18:30:00.0000000Z
+151,45,0,0,0,0,PT30M,2019-01-15T18:00:00.0000000Z
+152,45,0,0,0,0,PT30M,2019-01-15T17:30:00.0000000Z
+153,45,0,0,0,0,PT30M,2019-01-15T17:00:00.0000000Z
+154,45,0,0,0,0,PT30M,2019-01-15T16:30:00.0000000Z
+155,46,0,0,0,0,PT30M,2019-01-15T16:00:00.0000000Z
+156,45,0,0,0,0,PT30M,2019-01-15T15:30:00.0000000Z
+157,46,0,0,0,0,PT30M,2019-01-15T15:00:00.0000000Z
+158,59,0,0,0,0,PT30M,2019-01-15T14:30:00.0000000Z
+159,46,0,0,0,0,PT30M,2019-01-15T14:00:00.0000000Z
+160,45,0,0,0,0,PT30M,2019-01-15T13:30:00.0000000Z
+161,53,0,0,0,0,PT30M,2019-01-15T13:00:00.0000000Z
+162,48,0,0,0,0,PT30M,2019-01-15T12:30:00.0000000Z
+163,49,0,0,0,0,PT30M,2019-01-15T12:00:00.0000000Z
+164,31,0,0,0,0,PT30M,2019-01-15T11:30:00.0000000Z
+165,19,1,2,0,1,PT30M,2019-01-15T11:00:00.0000000Z
+166,18,12,17,3,15,PT30M,2019-01-15T10:30:00.0000000Z
+167,48,50,12,1,52,PT30M,2019-01-15T10:00:00.0000000Z
+168,72,60,1,0,60,PT30M,2019-01-15T09:30:00.0000000Z
+169,87,41,0,0,41,PT30M,2019-01-15T09:00:00.0000000Z
+170,90,43,0,0,43,PT30M,2019-01-15T08:30:00.0000000Z
+171,76,139,1,1,139,PT30M,2019-01-15T08:00:00.0000000Z
+172,60,275,8,6,281,PT30M,2019-01-15T07:30:00.0000000Z
+173,51,371,23,18,389,PT30M,2019-01-15T07:00:00.0000000Z
+174,46,440,42,35,475,PT30M,2019-01-15T06:30:00.0000000Z
+175,53,425,30,27,452,PT30M,2019-01-15T06:00:00.0000000Z
+176,56,436,17,16,452,PT30M,2019-01-15T05:30:00.0000000Z
+177,77,228,1,1,229,PT30M,2019-01-15T05:00:00.0000000Z
+178,63,379,8,8,387,PT30M,2019-01-15T04:30:00.0000000Z
+179,42,488,135,130,618,PT30M,2019-01-15T04:00:00.0000000Z
+180,36,509,170,161,670,PT30M,2019-01-15T03:30:00.0000000Z
+181,13,306,608,556,863,PT30M,2019-01-15T03:00:00.0000000Z
+182,3,178,824,719,897,PT30M,2019-01-15T02:30:00.0000000Z
+183,3,162,814,668,830,PT30M,2019-01-15T02:00:00.0000000Z
+184,3,141,818,601,743,PT30M,2019-01-15T01:30:00.0000000Z
+185,1,118,813,532,650,PT30M,2019-01-15T01:00:00.0000000Z
+186,3,120,726,399,520,PT30M,2019-01-15T00:30:00.0000000Z
+187,1,98,696,307,406,PT30M,2019-01-15T00:00:00.0000000Z
+188,8,108,473,152,261,PT30M,2019-01-14T23:30:00.0000000Z
+189,13,83,276,58,141,PT30M,2019-01-14T23:00:00.0000000Z
+190,10,34,92,16,50,PT30M,2019-01-14T22:30:00.0000000Z
+191,0,3,12,2,5,PT30M,2019-01-14T22:00:00.0000000Z
+192,4,0,0,0,0,PT30M,2019-01-14T21:30:00.0000000Z
+193,5,0,0,0,0,PT30M,2019-01-14T21:00:00.0000000Z
+194,0,0,0,0,0,PT30M,2019-01-14T20:30:00.0000000Z
+195,0,0,0,0,0,PT30M,2019-01-14T20:00:00.0000000Z
+196,0,0,0,0,0,PT30M,2019-01-14T19:30:00.0000000Z
+197,0,0,0,0,0,PT30M,2019-01-14T19:00:00.0000000Z
+198,0,0,0,0,0,PT30M,2019-01-14T18:30:00.0000000Z
+199,33,0,0,0,0,PT30M,2019-01-14T18:00:00.0000000Z
+200,31,0,0,0,0,PT30M,2019-01-14T17:30:00.0000000Z
+201,31,0,0,0,0,PT30M,2019-01-14T17:00:00.0000000Z
+202,31,0,0,0,0,PT30M,2019-01-14T16:30:00.0000000Z
+203,30,0,0,0,0,PT30M,2019-01-14T16:00:00.0000000Z
+204,19,0,0,0,0,PT30M,2019-01-14T15:30:00.0000000Z
+205,42,0,0,0,0,PT30M,2019-01-14T15:00:00.0000000Z
+206,41,0,0,0,0,PT30M,2019-01-14T14:30:00.0000000Z
+207,40,0,0,0,0,PT30M,2019-01-14T14:00:00.0000000Z
+208,30,0,0,0,0,PT30M,2019-01-14T13:30:00.0000000Z
+209,30,0,0,0,0,PT30M,2019-01-14T13:00:00.0000000Z
+210,30,0,0,0,0,PT30M,2019-01-14T12:30:00.0000000Z
+211,24,0,0,0,0,PT30M,2019-01-14T12:00:00.0000000Z
+212,9,0,0,0,0,PT30M,2019-01-14T11:30:00.0000000Z
+213,12,1,0,0,1,PT30M,2019-01-14T11:00:00.0000000Z
+214,23,10,10,2,13,PT30M,2019-01-14T10:30:00.0000000Z
+215,61,41,8,1,42,PT30M,2019-01-14T10:00:00.0000000Z
+216,41,115,38,10,126,PT30M,2019-01-14T09:30:00.0000000Z
+217,55,147,11,4,152,PT30M,2019-01-14T09:00:00.0000000Z
+218,63,167,8,4,172,PT30M,2019-01-14T08:30:00.0000000Z
+219,73,149,2,1,150,PT30M,2019-01-14T08:00:00.0000000Z
+220,89,73,0,0,73,PT30M,2019-01-14T07:30:00.0000000Z
+221,96,21,0,0,21,PT30M,2019-01-14T07:00:00.0000000Z
+222,90,92,0,0,92,PT30M,2019-01-14T06:30:00.0000000Z
+223,92,68,0,0,68,PT30M,2019-01-14T06:00:00.0000000Z
+224,83,167,0,0,167,PT30M,2019-01-14T05:30:00.0000000Z
+225,77,245,1,1,245,PT30M,2019-01-14T05:00:00.0000000Z
+226,69,324,3,3,327,PT30M,2019-01-14T04:30:00.0000000Z
+227,60,404,11,11,415,PT30M,2019-01-14T04:00:00.0000000Z
+228,24,467,341,323,790,PT30M,2019-01-14T03:30:00.0000000Z
+229,23,419,376,346,765,PT30M,2019-01-14T03:00:00.0000000Z
+230,13,285,607,526,811,PT30M,2019-01-14T02:30:00.0000000Z
+231,35,408,178,146,554,PT30M,2019-01-14T02:00:00.0000000Z
+232,50,358,26,19,376,PT30M,2019-01-14T01:30:00.0000000Z
+233,41,337,62,39,377,PT30M,2019-01-14T01:00:00.0000000Z
+234,34,266,168,87,353,PT30M,2019-01-14T00:30:00.0000000Z
+235,10,140,533,232,372,PT30M,2019-01-14T00:00:00.0000000Z
+236,23,143,228,77,221,PT30M,2019-01-13T23:30:00.0000000Z
+237,29,91,97,20,112,PT30M,2019-01-13T23:00:00.0000000Z
+238,21,34,67,11,46,PT30M,2019-01-13T22:30:00.0000000Z
+239,33,3,4,1,4,PT30M,2019-01-13T22:00:00.0000000Z
+240,20,0,0,0,0,PT30M,2019-01-13T21:30:00.0000000Z
+241,30,0,0,0,0,PT30M,2019-01-13T21:00:00.0000000Z
+242,31,0,0,0,0,PT30M,2019-01-13T20:30:00.0000000Z
+243,22,0,0,0,0,PT30M,2019-01-13T20:00:00.0000000Z
+244,30,0,0,0,0,PT30M,2019-01-13T19:30:00.0000000Z
+245,30,0,0,0,0,PT30M,2019-01-13T19:00:00.0000000Z
+246,35,0,0,0,0,PT30M,2019-01-13T18:30:00.0000000Z
+247,29,0,0,0,0,PT30M,2019-01-13T18:00:00.0000000Z
+248,28,0,0,0,0,PT30M,2019-01-13T17:30:00.0000000Z
+249,30,0,0,0,0,PT30M,2019-01-13T17:00:00.0000000Z
+250,30,0,0,0,0,PT30M,2019-01-13T16:30:00.0000000Z
+251,30,0,0,0,0,PT30M,2019-01-13T16:00:00.0000000Z
+252,29,0,0,0,0,PT30M,2019-01-13T15:30:00.0000000Z
+253,31,0,0,0,0,PT30M,2019-01-13T15:00:00.0000000Z
+254,29,0,0,0,0,PT30M,2019-01-13T14:30:00.0000000Z
+255,30,0,0,0,0,PT30M,2019-01-13T14:00:00.0000000Z
+256,28,0,0,0,0,PT30M,2019-01-13T13:30:00.0000000Z
+257,31,0,0,0,0,PT30M,2019-01-13T13:00:00.0000000Z
+258,31,0,0,0,0,PT30M,2019-01-13T12:30:00.0000000Z
+259,44,0,0,0,0,PT30M,2019-01-13T12:00:00.0000000Z
+260,43,0,0,0,0,PT30M,2019-01-13T11:30:00.0000000Z
+261,37,0,0,0,0,PT30M,2019-01-13T11:00:00.0000000Z
+262,28,12,12,2,14,PT30M,2019-01-13T10:30:00.0000000Z
+263,4,53,250,45,99,PT30M,2019-01-13T10:00:00.0000000Z
+264,0,78,534,142,219,PT30M,2019-01-13T09:30:00.0000000Z
+265,12,145,428,156,301,PT30M,2019-01-13T09:00:00.0000000Z
+266,35,243,129,60,304,PT30M,2019-01-13T08:30:00.0000000Z
+267,29,305,193,115,422,PT30M,2019-01-13T08:00:00.0000000Z
+268,12,216,603,410,626,PT30M,2019-01-13T07:30:00.0000000Z
+269,13,260,583,439,699,PT30M,2019-01-13T07:00:00.0000000Z
+270,22,375,397,327,702,PT30M,2019-01-13T06:30:00.0000000Z
+271,39,480,124,111,592,PT30M,2019-01-13T06:00:00.0000000Z
+272,48,485,43,40,525,PT30M,2019-01-13T05:30:00.0000000Z
+273,52,477,18,17,495,PT30M,2019-01-13T05:00:00.0000000Z
+274,27,468,318,309,778,PT30M,2019-01-13T04:30:00.0000000Z
+275,12,303,654,633,937,PT30M,2019-01-13T04:00:00.0000000Z
+276,14,313,624,592,905,PT30M,2019-01-13T03:30:00.0000000Z
+277,8,218,776,710,928,PT30M,2019-01-13T03:00:00.0000000Z
+278,0,135,908,809,944,PT30M,2019-01-13T02:30:00.0000000Z
+279,0,126,892,740,868,PT30M,2019-01-13T02:00:00.0000000Z
+280,0,118,868,656,774,PT30M,2019-01-13T01:30:00.0000000Z
+281,0,107,836,558,665,PT30M,2019-01-13T01:00:00.0000000Z
+282,0,96,793,451,548,PT30M,2019-01-13T00:30:00.0000000Z
+283,0,84,732,340,424,PT30M,2019-01-13T00:00:00.0000000Z
+284,7,96,526,178,276,PT30M,2019-01-12T23:30:00.0000000Z
+285,6,74,396,82,157,PT30M,2019-01-12T23:00:00.0000000Z
+286,0,30,182,30,61,PT30M,2019-01-12T22:30:00.0000000Z
+287,0,3,12,2,5,PT30M,2019-01-12T22:00:00.0000000Z
+288,0,0,0,0,0,PT30M,2019-01-12T21:30:00.0000000Z
+289,0,0,0,0,0,PT30M,2019-01-12T21:00:00.0000000Z
+290,0,0,0,0,0,PT30M,2019-01-12T20:30:00.0000000Z
+291,0,0,0,0,0,PT30M,2019-01-12T20:00:00.0000000Z
+292,0,0,0,0,0,PT30M,2019-01-12T19:30:00.0000000Z
+293,0,0,0,0,0,PT30M,2019-01-12T19:00:00.0000000Z
+294,0,0,0,0,0,PT30M,2019-01-12T18:30:00.0000000Z
+295,0,0,0,0,0,PT30M,2019-01-12T18:00:00.0000000Z
+296,0,0,0,0,0,PT30M,2019-01-12T17:30:00.0000000Z
+297,0,0,0,0,0,PT30M,2019-01-12T17:00:00.0000000Z
+298,0,0,0,0,0,PT30M,2019-01-12T16:30:00.0000000Z
+299,0,0,0,0,0,PT30M,2019-01-12T16:00:00.0000000Z
+300,0,0,0,0,0,PT30M,2019-01-12T15:30:00.0000000Z
+301,0,0,0,0,0,PT30M,2019-01-12T15:00:00.0000000Z
+302,0,0,0,0,0,PT30M,2019-01-12T14:30:00.0000000Z
+303,0,0,0,0,0,PT30M,2019-01-12T14:00:00.0000000Z
+304,0,0,0,0,0,PT30M,2019-01-12T13:30:00.0000000Z
+305,0,0,0,0,0,PT30M,2019-01-12T13:00:00.0000000Z
+306,0,0,0,0,0,PT30M,2019-01-12T12:30:00.0000000Z
+307,0,0,0,0,0,PT30M,2019-01-12T12:00:00.0000000Z
+308,0,0,0,0,0,PT30M,2019-01-12T11:30:00.0000000Z
+309,0,0,2,0,1,PT30M,2019-01-12T11:00:00.0000000Z
+310,0,10,43,7,18,PT30M,2019-01-12T10:30:00.0000000Z
+311,6,52,263,48,100,PT30M,2019-01-12T10:00:00.0000000Z
+312,0,77,541,144,222,PT30M,2019-01-12T09:30:00.0000000Z
+313,0,90,682,259,349,PT30M,2019-01-12T09:00:00.0000000Z
+314,7,143,621,297,441,PT30M,2019-01-12T08:30:00.0000000Z
+315,35,287,175,96,384,PT30M,2019-01-12T08:00:00.0000000Z
+316,21,234,476,331,566,PT30M,2019-01-12T07:30:00.0000000Z
+317,27,388,278,212,600,PT30M,2019-01-12T07:00:00.0000000Z
+318,23,373,389,325,698,PT30M,2019-01-12T06:30:00.0000000Z
+319,31,482,204,179,660,PT30M,2019-01-12T06:00:00.0000000Z
+320,38,542,103,96,638,PT30M,2019-01-12T05:30:00.0000000Z
+321,31,543,199,190,734,PT30M,2019-01-12T05:00:00.0000000Z
+322,19,397,489,475,872,PT30M,2019-01-12T04:30:00.0000000Z
+323,26,498,312,301,800,PT30M,2019-01-12T04:00:00.0000000Z
+324,5,196,839,804,1000,PT30M,2019-01-12T03:30:00.0000000Z
+325,6,201,806,746,947,PT30M,2019-01-12T03:00:00.0000000Z
+326,0,134,909,812,946,PT30M,2019-01-12T02:30:00.0000000Z
+327,0,126,891,741,867,PT30M,2019-01-12T02:00:00.0000000Z
+328,0,117,866,655,773,PT30M,2019-01-12T01:30:00.0000000Z
+329,0,107,833,560,666,PT30M,2019-01-12T01:00:00.0000000Z
+330,0,97,787,451,548,PT30M,2019-01-12T00:30:00.0000000Z
+331,0,90,723,332,423,PT30M,2019-01-12T00:00:00.0000000Z
+332,0,83,624,211,293,PT30M,2019-01-11T23:30:00.0000000Z
+333,0,66,454,102,169,PT30M,2019-01-11T23:00:00.0000000Z
+334,0,32,180,30,61,PT30M,2019-01-11T22:30:00.0000000Z
