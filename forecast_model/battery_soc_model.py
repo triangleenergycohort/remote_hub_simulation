@@ -13,7 +13,7 @@ def soc_calc(load_profile,gen_profile):
     battery_capacity = 20 #Ah
     #model parameters
     deltat = 0.5
-    initial_soc = 1.0
+    initial_soc = 0.9
     SOC = pd.Series([initial_soc]*len(gen_profile))    
     #calculation
     for t in range(0,(len(SOC)-1)):

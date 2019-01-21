@@ -23,7 +23,7 @@ f_gen_profile = pd.read_excel('profiles.xlsx',sheet_name='generation')
 solcast_gen_profile = pd.read_csv('./weather data/locations/loc01/gen_profile.csv')
 
 
-
+#aggregate monthly load data
 load = pd.DataFrame([])
 #gen = pd.DataFrame([])
 
@@ -34,13 +34,11 @@ for d in calendar.load_profile:
     #gen = pd.concat([gen,daily_gen_profile],ignore_index=True)
     
     
-#gen['t_month'] = t_month
-#print(len(t_month))
-
 #extract and synchronize timestamps
 delta_t = 0.5
 solcast_first_endtime = datetime.strptime(solcast_gen_profile.loc[(len(solcast_gen_profile.time)-1),'period_end'],'%Y-%m-%dT%H:%M:00.0000000Z')
-load_first_endtime = datetime(2019,1,12)
+#load timestamp needs to be verified
+load_first_endtime = datetime(2019,1,12,21)
 time_sync_delta = solcast_first_endtime - load_first_endtime
 offset_index = int((time_sync_delta.days*24+time_sync_delta.seconds/3600)/delta_t)
 
@@ -48,7 +46,10 @@ load = load[offset_index:].reset_index()
 t_month = pd.Series(range(len(load.ld_energy)))
 t_month = t_month*delta_t
 load['t_month'] = t_month
+#gen['t_month'] = t_month
+#print(len(t_month))
 
+#calculate and plot results
 soc_week = soc_calc(load,solcast_gen_profile)
 plot_profiles_month(load[:len(solcast_gen_profile.time)],solcast_gen_profile,soc_week)    
 
