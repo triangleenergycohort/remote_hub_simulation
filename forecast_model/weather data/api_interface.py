@@ -17,13 +17,15 @@ def get_solcast_insolation():
         #print(data['estimated_actuals'])
         #save to json file
         #'''
-        with open('data.json', 'w') as outfile:
+        #** add logic to determine storage location **
+        filedir = './locations/loc01/'
+        with open(filedir+'data.json', 'w') as outfile:
             json.dump(data, outfile)
         #'''
         #convert to csv
-        df = pd.read_json('data.json')
+        df = pd.read_json(filedir+'data.json')
         #print(df.head())
-        df.to_csv('data.csv')
+        df.to_csv(filedir+'data.csv')
 
     return success
 

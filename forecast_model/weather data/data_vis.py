@@ -7,10 +7,11 @@ Created on Mon Jan 21 12:55:47 2019
 
 import pandas as pd
 
-irradiance = pd.read_csv('data.csv')
+irradiance = pd.read_csv('./locations/loc01/data.csv')
 irradiance = irradiance.rename(columns={'Unnamed: 0': 'index'})
 
 #extract timestamp
+#** add function to extract and synchronize timestamps **
 
 #calculate electricity generation
 def gen_calc(irradiance):
