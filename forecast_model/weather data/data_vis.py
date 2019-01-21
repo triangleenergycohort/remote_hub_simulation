@@ -10,17 +10,23 @@ import pandas as pd
 irradiance = pd.read_csv('./locations/loc01/data.csv')
 irradiance = irradiance.rename(columns={'Unnamed: 0': 'index'})
 
-#extract timestamp
-#** add function to extract and synchronize timestamps **
+#calculate time series
+if irradiance.loc[0,'period'] == 'PT30M':
+    delta_t = 0.5
+irradiance['time'] = irradiance.index*delta_t
 
 #calculate electricity generation
 def gen_calc(irradiance):
     #constants
     pannel_size = 0.42240
     eff = 0.145
-    return irradiance*pannel_size*eff
+    derate = 0.0
+    return irradiance*pannel_size*eff*(1-derate)
 
-irradiance['generation_watts'] = irradiance.ghi.apply(gen_calc)
+irradiance['gen_energy'] = irradiance.ghi.apply(gen_calc)
 
 #plot results
-irradiance.plot(x='index',y='generation_watts')
+#irradiance.plot(x='index',y='generation_watts')
+
+output = irradiance[['time','gen_energy','period_end']]
+output.to_csv('./locations/loc01/gen_profile.csv')

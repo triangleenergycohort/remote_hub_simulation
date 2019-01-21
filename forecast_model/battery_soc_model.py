@@ -14,7 +14,7 @@ def soc_calc(load_profile,gen_profile):
     #model parameters
     deltat = 0.5
     initial_soc = 1.0
-    SOC = pd.Series([initial_soc]*len(load_profile))    
+    SOC = pd.Series([initial_soc]*len(gen_profile))    
     #calculation
     for t in range(0,(len(SOC)-1)):
         I = (gen_profile.gen_energy[t+1]-load_profile.ld_energy[t+1])/battery_voltage
@@ -54,13 +54,13 @@ def plot_profiles(load_profile,gen_profile,soc_profile):
     return
 
 def plot_profiles_month(load_profile,gen_profile,soc_profile):
+    #for file output use figsize=[16,9]
     fig, ax1 = plt.subplots(figsize=[16,9])
-    #fig.figsize([20,10])
     
     color = 'tab:red'
     ax1.set_xlabel('time (hr)')
     ax1.set_ylabel('Watts', color=color)
-    #ax1.plot(gen_profile.t_month, gen_profile.gen_energy, color=color)
+    ax1.plot(gen_profile.time, gen_profile.gen_energy, color=color)
     ax1.plot(load_profile.t_month, load_profile.ld_energy, '--', color=color)
     ax1.tick_params(axis='y', labelcolor=color)
     
@@ -82,5 +82,5 @@ f_load_profile = pd.read_excel('profiles.xlsx',sheet_name='load_low_off_peak')
 f_gen_profile = pd.read_excel('profiles.xlsx',sheet_name='generation')
 
 f_soc = soc_calc(f_load_profile,f_gen_profile)
-plot_profiles(f_load_profile,f_gen_profile,f_soc)
+#plot_profiles(f_load_profile,f_gen_profile,f_soc)
 
