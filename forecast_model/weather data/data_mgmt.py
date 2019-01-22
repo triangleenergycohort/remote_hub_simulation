@@ -7,7 +7,7 @@ Created on Mon Jan 21 12:55:47 2019
 
 import pandas as pd
 
-irradiance = pd.read_csv('./locations/loc01/data.csv')
+irradiance = pd.read_csv('./locations/curtailment scenario/data.csv')
 irradiance = irradiance.rename(columns={'Unnamed: 0': 'index'})
 
 #calculate time series
@@ -26,7 +26,17 @@ def gen_calc(irradiance):
 irradiance['gen_energy'] = irradiance.ghi.apply(gen_calc)
 
 #plot results
-#irradiance.plot(x='index',y='generation_watts')
+#irradiance.plot(x='index',y='gen_energy')
 
 output = irradiance[['time','gen_energy','period_end']]
-output.to_csv('./locations/loc01/gen_profile.csv')
+output.to_csv('./locations/curtailment scenario/gen_profile.csv')
+
+
+#calculate insolation
+def insolation_calc(df):
+    #add eq to determine delta t
+    s=0
+    delta_t = df.time[1]-df.time[0]
+    for x in range(len(df.gen_energy)):
+        s = s+df.gen_energy[x]*delta_t
+    return s

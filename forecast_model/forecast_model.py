@@ -20,7 +20,7 @@ high_on_peak = pd.read_excel('profiles.xlsx',sheet_name='load_high_on_peak')
 high_off_peak = pd.read_excel('profiles.xlsx',sheet_name='load_high_off_peak')
 
 f_gen_profile = pd.read_excel('profiles.xlsx',sheet_name='generation')
-solcast_gen_profile = pd.read_csv('./weather data/locations/loc01/gen_profile.csv')
+solcast_gen_profile = pd.read_csv('./weather data/locations/curtailment scenario/gen_profile.csv')
 
 
 #aggregate monthly load data
@@ -52,4 +52,7 @@ load['t_month'] = t_month
 #calculate and plot results
 soc_week = soc_calc(load,solcast_gen_profile)
 plot_profiles_month(load[:len(solcast_gen_profile.time)],solcast_gen_profile,soc_week)    
+
+#find curtailment points
+
 
