@@ -48,11 +48,66 @@ t_month = t_month*delta_t
 load['t_month'] = t_month
 #gen['t_month'] = t_month
 #print(len(t_month))
-
+'''
 #calculate and plot results
 soc_week = soc_calc(load,solcast_gen_profile)
 plot_profiles_month(load[:len(solcast_gen_profile.time)],solcast_gen_profile,soc_week)    
+'''
+#calculate insolation
+def insolation_calc(df):
+    #add eq to determine delta t
+    s=0
+    delta_t = df.time[1]-df.time[0]
+    for x in range(len(df.gen_energy)):
+        s = s+df.gen_energy[x]*delta_t
+    return s
 
-#find curtailment points
+#find loadshift points
+def identify_loadshift(gen_df):
+    #init
+    delta_t = gen_df.time[1]-gen_df.time[0]
+    threshold = 120
+    t = 0
+    offset = int(24/delta_t)
+    low_pv_count = 0
+    timestamps = []
+    loadshift_flag = False
+    
+    while (t)<len(gen_df.gen_energy):        
+        if (t+offset)>len(gen_df.gen_energy):
+            offset = len(gen_df.gen_energy)-t
+        else:
+            offset = int(24/delta_t)
+        
+        i = insolation_calc(gen_df[t:t+offset].reset_index())
+        #print(i)
+        if i<threshold:
+            #print('low insolation detected')
+            timestamps.append(gen_df.period_end[t])
+            low_pv_count = low_pv_count+1
+            if low_pv_count >= 2:
+                loadshift_flag = True
+        else:
+            low_pv_count=0
+        t = t+offset
+    
+    '''if loadshift_flag:
+        print('need loadshift')
+        print(timestamps)'''
+    
+    return timestamps
 
+#send loadshift report to device
+def send_loadshift_report(customer,times,dod_increment):
+    email_text = 'Loadshift recommended'+'\n'
+    email_text = email_text+'Start time: '+times[0]+'\n'+'End time: '+times[1]+'\n'
+    email_text = email_text+'Max daily incremental DOD: '+dod_increment
+    print(email_text)
+    
+    return
+
+times = identify_loadshift(solcast_gen_profile)
+if times:
+    send_loadshift_report('10000001',times,'40%')
+    
 
