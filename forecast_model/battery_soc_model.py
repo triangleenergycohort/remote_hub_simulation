@@ -30,32 +30,9 @@ def soc_calc(load_profile,gen_profile):
     #print(SOC.head(48))
     return SOC
 
-
 def plot_profiles(load_profile,gen_profile,soc_profile):
-    fig, ax1 = plt.subplots()
-    
-    color = 'tab:red'
-    ax1.set_xlabel('time (hr)')
-    ax1.set_ylabel('Watts', color=color)
-    ax1.plot(gen_profile.time, gen_profile.gen_energy, color=color)
-    ax1.plot(load_profile.time, load_profile.ld_energy, '--', color=color)
-    ax1.tick_params(axis='y', labelcolor=color)
-    
-    ax2 = ax1.twinx()  # instantiate a second axes that shares the same x-axis
-    
-    color = 'tab:blue'
-    ax2.set_ylabel('SOC', color=color)  # we already handled the x-label with ax1
-    ax2.plot(load_profile.time, soc_profile, color=color)
-    ax2.set_ylim([0,1])
-    ax2.tick_params(axis='y', labelcolor=color)
-    
-    fig.tight_layout()  # otherwise the right y-label is slightly clipped
-    plt.show()
-    return
-
-def plot_profiles_month(load_profile,gen_profile,soc_profile):
     #for file output use figsize=[16,9]
-    fig, ax1 = plt.subplots(figsize=[16,9])
+    fig, ax1 = plt.subplots()
     
     color = 'tab:red'
     ax1.set_xlabel('time (hr)')
@@ -76,11 +53,11 @@ def plot_profiles_month(load_profile,gen_profile,soc_profile):
     plt.show()
     return
 
-
+'''
 #read from csv files
 f_load_profile = pd.read_excel('profiles.xlsx',sheet_name='load_low_off_peak')
 f_gen_profile = pd.read_excel('profiles.xlsx',sheet_name='generation')
 
 f_soc = soc_calc(f_load_profile,f_gen_profile)
 #plot_profiles(f_load_profile,f_gen_profile,f_soc)
-
+'''
