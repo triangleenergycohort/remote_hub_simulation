@@ -7,18 +7,18 @@ import pandas as pd
 
 def get_solcast_insolation():
     success = False
-    r = requests.get("https://api.solcast.com.au/radiation/estimated_actuals?longitude=120.78&latitude=-8.60&api_key=xPd9I0BI0abRZSCt8kiDisjEvFQIF7bT&format=json")
+    r = requests.get("https://api.solcast.com.au/radiation/forecasts?longitude=120.78&latitude=-8.60&api_key=xPd9I0BI0abRZSCt8kiDisjEvFQIF7bT&format=json")
     print(r.status_code)
 
     if r.status_code == 200:
         success = True
         data = r.json()
-        data = data['estimated_actuals']
+        data = data['forecasts']
         #print(data['estimated_actuals'])
         #save to json file
         #'''
         #** add logic to determine storage location **
-        filedir = './locations/loc01/'
+        filedir = './locations/loc02/'
         with open(filedir+'data.json', 'w') as outfile:
             json.dump(data, outfile)
         #'''
