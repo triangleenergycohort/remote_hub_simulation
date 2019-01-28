@@ -26,11 +26,13 @@ def new_file_mgmt(path,filename):
     irradiance['time'] = irradiance.index*delta_t
 
     irradiance['gen_energy'] = irradiance.ghi.apply(gen_calc)
+    irradiance['gen_energy_90'] = irradiance.ghi90.apply(gen_calc)
+    irradiance['gen_energy_10'] = irradiance.ghi10.apply(gen_calc)
     
     #plot results
     irradiance.plot(x='index',y='gen_energy')
     
-    output = irradiance[['time','gen_energy','period_end']]
+    output = irradiance[['time','gen_energy','gen_energy_90','gen_energy_10','period_end']]
     output.to_csv(path+'gen_profile.csv')
     return
 
