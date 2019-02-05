@@ -1,5 +1,5 @@
-﻿customer_no,name,address,phone_no,payment_method, account_balance ,account_start_date,financial_records_path,usage_data_path
+﻿customer_no,name,address,phone_no,payment_method,account_balance,account_start_date,financial_records_path,usage_data_path
 10000001,john doe,14 old dreary lane,1(555)876-5432,PayPal,  $-    ,1/15/2020,./customers/10000001/financial/,./customers/10000001/usage_data/
-10000002,jane doe,12 rural road,1(555)321-9876,Bank Negara Indonesia, $6.50 ,1/19/2020,./customers/10000002/financial/,./customers/10000002/usage_data/
+10000002,jane doe,12 rural road,1(555)321-9876,Bank Negara Indonesia,$6.50 ,1/19/2020,./customers/10000002/financial/,./customers/10000002/usage_data/
 10000003,swe,-,1(555)985-0860,PayPal,  $-    ,1/29/2020,./customers/10000003/financial/,./customers/10000003/usage_data/
 10000004,jack frost,13 north pole drive,1(555)983-4456,PayPal, $-   ,1/25/2020,./customers/10000004/financial/,./customers/10000004/uasge_data/
